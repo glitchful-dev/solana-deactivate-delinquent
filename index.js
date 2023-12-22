@@ -1,4 +1,5 @@
 const web3 = require('@solana/web3.js')
+// const fetch = require('node-fetch')
 const fs = require('fs')
 
 const U64_MAX = '18446744073709551615'
@@ -43,7 +44,7 @@ const getEpochRange = (validators, epochs) => {
     return [maxEpoch - epochs + 1, maxEpoch]
 }
 
-const findDeliquentValidators = (validators, from, to) => {
+const findDelinquentValidators = (validators, from, to) => {
     const delinquent = []
 
     for (const validator of validators) {
@@ -163,37 +164,41 @@ const deactivateDelinquentAccounts = async (accounts, delinquentValidator, refer
 
 const unstakeDelinquents = async () => {
     const log = (...args) => logger('FIND', ...args)
-
-    const validatorsApiResponse = await fetchData()
-    const [from, to] = getEpochRange(validatorsApiResponse.validators, MINIMUM_DELINQUENT_EPOCHS_FOR_DEACTIVATION)
-    log('Found epoch range to explore: ', from, to)
-
-    const delinquentValidators = findDeliquentValidators(validatorsApiResponse.validators, from, to)
-    if (delinquentValidators.length === 0) {
-        log('No validators match the delinquency criteria')
-        return
-    }
-
-    log('Found delinquent validators', delinquentValidators)
-
-    const referenceValidator = findReferenceValidator(validatorsApiResponse.validators, from, to)
-    log('Found reference validator', referenceValidator)
-
     let totalDeactivated = 0
-    for (const delinquentValidator of delinquentValidators) {
-        try {
-            const accounts = await getAccountsToDeactivate(to, delinquentValidator)
 
-            if (accounts.length > 0) {
-                await deactivateDelinquentAccounts(accounts, delinquentValidator, referenceValidator)
-                totalDeactivated += accounts.reduce((total, { account }) => total + account.lamports, 0)
-                log('Deactivated stake accounts with total balance:', )
-            } else {
-                log('No deactivations possible for this validator')
-            }
-        } catch (err) {
-            log('Error processing validator', delinquentValidator, err.message, err)
+    try {
+        const validatorsApiResponse = await fetchData()
+        const [from, to] = getEpochRange(validatorsApiResponse.validators, MINIMUM_DELINQUENT_EPOCHS_FOR_DEACTIVATION)
+        log('Found epoch range to explore: ', from, to)
+
+        const delinquentValidators = findDelinquentValidators(validatorsApiResponse.validators, from, to)
+        if (delinquentValidators.length === 0) {
+            log('No validators match the delinquency criteria')
+            return
         }
+
+        log('Found delinquent validators', delinquentValidators)
+
+        const referenceValidator = findReferenceValidator(validatorsApiResponse.validators, from, to)
+        log('Found reference validator', referenceValidator)
+
+        for (const delinquentValidator of delinquentValidators) {
+            try {
+                const accounts = await getAccountsToDeactivate(to, delinquentValidator)
+
+                if (accounts.length > 0) {
+                    await deactivateDelinquentAccounts(accounts, delinquentValidator, referenceValidator)
+                    totalDeactivated += accounts.reduce((total, { account }) => total + account.lamports, 0)
+                    log('Deactivated stake accounts with total balance:', )
+                } else {
+                    log('No deactivations possible for this validator')
+                }
+            } catch (err) {
+                log('Error processing validator', delinquentValidator, err.message, err)
+            }
+        }
+    } catch (err) {
+        log('Error processing the workflow', err.message, err)
     }
 
     log('Total de-activated:', totalDeactivated / 1e9)

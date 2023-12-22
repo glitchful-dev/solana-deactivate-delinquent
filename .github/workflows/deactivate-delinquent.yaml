@@ -14,9 +14,9 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Install Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
 
     - uses: pnpm/action-setup@v2
       name: Install pnpm
@@ -47,15 +47,17 @@ jobs:
       run: |
         set -e
 
-        <<<"$KEYPAIR_RAW" > keypair.json
+        echo "$KEYPAIR_RAW" > keypair.json
 
         mkdir -p logs
-        FILE="./logs/$(gdate --iso-8601=s).log"
+        FILE="./logs/$(date --iso-8601=s).log"
 
         export KEYPAIR=keypair.json
         node index.js |& tee "$FILE"
 
         if ! grep -q 'Total de-activated: 0$' "$FILE"; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add logs
           git commit -m "Added log file $FILE"
           git push
