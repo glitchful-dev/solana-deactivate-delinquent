@@ -1,0 +1,26 @@
+2023-12-23T17:54:58.449Z FIND Found epoch range to explore:  545 549
+2023-12-23T17:54:58.452Z FIND Found delinquent validators [
+  'xQoNyt6WsfTrSC81ahnkv7yD7vv1YY9rGynPJcuhNw3',
+  '3FVmwwjKKGBP8W6VizCBGDBfQ7vsmJJV23BGbxqmz3Eg'
+]
+2023-12-23T17:54:58.453Z FIND Found reference validator 6D2jqw9hyVCpppZexquxa74Fn33rJzzBx38T58VucHx9
+2023-12-23T17:55:02.882Z STAKES Found:  3  accounts for delinquent validator xQoNyt6WsfTrSC81ahnkv7yD7vv1YY9rGynPJcuhNw3
+2023-12-23T17:55:02.882Z STAKES Stake account 2NionJwEZL8tbrMRkoXSoWBdWVHAs1PddN8qjTVvHSyt is de-activating:  1.200186606
+2023-12-23T17:55:02.882Z STAKES Stake account FKMUdndpgJcgcJTtLJ1iSqjegK9L5UnZ159gqZv4fosg is de-activating:  1.00228288
+2023-12-23T17:55:02.883Z STAKES Stake account FcwX6tF5SWzCqBopGYExbwnArY43J2kxFrB89p6PFbvD is de-activating:  0.00328288
+2023-12-23T17:55:02.883Z STAKES Found:  0  accounts that can be de-activated delinquent validator xQoNyt6WsfTrSC81ahnkv7yD7vv1YY9rGynPJcuhNw3
+2023-12-23T17:55:02.883Z FIND No deactivations possible for this validator
+2023-12-23T17:55:05.066Z STAKES Found:  6  accounts for delinquent validator 3FVmwwjKKGBP8W6VizCBGDBfQ7vsmJJV23BGbxqmz3Eg
+2023-12-23T17:55:05.066Z STAKES Stake account EyemVsoax7ZKoH1TsbyFnud3hhEeNZbWTmt2QiiPyMVG is activating:  64.433501848
+2023-12-23T17:55:05.066Z STAKES Stake account GrtcqpJvGb3SUYXiqiZ8NLbZemstXsWVfmGi7PtxTjGU is de-activated:  0.00328288
+2023-12-23T17:55:05.066Z STAKES Stake account CLjkXJtmrAYtEJrT4WRLnX6wLc2RFtn6DAHTuN7hSyDk is de-activated:  0.003283754
+2023-12-23T17:55:05.067Z STAKES Stake account J68XUYJ3tUTmspSpUvGuYFP6xThrp5Di7RpDYYixVHV4 is de-activated:  59.856892131
+2023-12-23T17:55:05.067Z STAKES Stake account 7NJozrfTG9NKBrzGwmhUaJL1or1pZHbzjcgQHT96aySc is activate:  0.005002937
+2023-12-23T17:55:05.067Z STAKES Stake account CVhgfr13Y59975AVH3YpfTJYCDcx2DrfKuGVVJqJ6xfV is de-activated:  0.005
+2023-12-23T17:55:05.067Z STAKES Found:  2  accounts that can be de-activated delinquent validator 3FVmwwjKKGBP8W6VizCBGDBfQ7vsmJJV23BGbxqmz3Eg
+2023-12-23T17:55:05.078Z DEACTIVATE Blockhash: 6NDJnPN2Fe8cH23MvyNScojARk7AnEyUT1R9T9qZkH4n
+2023-12-23T17:55:05.104Z DEACTIVATE Sent tx: hRYcKbpdvwxCisrTaW22C9FLTXxf4sBKtazBb6nyHm7b2ZRXAz5MawuN7HbMakqAsjzaGXiPzmvMM38gbHQbNnh https://explorer.solana.com/tx/hRYcKbpdvwxCisrTaW22C9FLTXxf4sBKtazBb6nyHm7b2ZRXAz5MawuN7HbMakqAsjzaGXiPzmvMM38gbHQbNnh
+2023-12-23T17:55:05.210Z DEACTIVATE Waiting for confirmations...
+2023-12-23T17:55:26.101Z DEACTIVATE Confirmed.
+2023-12-23T17:55:26.101Z FIND Deactivated stake accounts with total balance:
+2023-12-23T17:55:26.101Z FIND Total de-activated: 64.438504785
