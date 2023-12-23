@@ -1,0 +1,43 @@
+2023-12-23T19:55:00.543Z FIND Found epoch range to explore:  546 550
+2023-12-23T19:55:00.546Z FIND Found delinquent validators [
+  'JAS9Xaf2R2QER3rrJRbqDSnxBRf6T5YX6nTFsvbQTaQ4',
+  'EM94TpeESGMrL1fhNvCQGTUfKzFkuxN7Mm1C899eSFZj',
+  '4HyiqUSufzcC9poF1idgmUdSw2jfkLcsvgUD55GhzQtd',
+  '4VLG11ttfYfPaeAFpdLfLunFPdFh6Q7zuQoxqBqg3k6Q'
+]
+2023-12-23T19:55:00.547Z FIND Found reference validator 6D2jqw9hyVCpppZexquxa74Fn33rJzzBx38T58VucHx9
+2023-12-23T19:55:02.828Z STAKES Found:  3  accounts for delinquent validator JAS9Xaf2R2QER3rrJRbqDSnxBRf6T5YX6nTFsvbQTaQ4
+2023-12-23T19:55:02.829Z STAKES Stake account Frrsp5VK2dzatt1AmBQy4BRhMvSBsiqSmoeCg7oMNvLu is activate:  0.003283252
+2023-12-23T19:55:02.829Z STAKES Stake account B92VprMC3RbBPStX5X6Lfbm9j9t4aengyZpUZv3k7Hu4 is activate:  0.003283252
+2023-12-23T19:55:02.829Z STAKES Stake account 2gUYguwJ8sXZZ8tSZiJbKWbKEDCp3b7y226dyuuwTzNa is de-activated:  107.050065414
+2023-12-23T19:55:02.829Z STAKES Found:  2  accounts that can be de-activated delinquent validator JAS9Xaf2R2QER3rrJRbqDSnxBRf6T5YX6nTFsvbQTaQ4
+2023-12-23T19:55:02.872Z DEACTIVATE Blockhash: 2DdAu41TR3DHdtuWd2KAJBFFR74LmAB1xGEXSufDBP7T
+2023-12-23T19:55:02.911Z DEACTIVATE Sent tx: 5fgJwxtjja8UrftmWcorPneHyXfUjM7bbWCFYNSoHyaGKRZWJ1mPpmv3sp624vesqj3T26WKzDeFRhFpyPD3sUhu https://explorer.solana.com/tx/5fgJwxtjja8UrftmWcorPneHyXfUjM7bbWCFYNSoHyaGKRZWJ1mPpmv3sp624vesqj3T26WKzDeFRhFpyPD3sUhu
+2023-12-23T19:55:03.016Z DEACTIVATE Waiting for confirmations...
+2023-12-23T19:55:23.965Z DEACTIVATE Confirmed.
+2023-12-23T19:55:23.965Z FIND Deactivated stake accounts with total balance:
+2023-12-23T19:55:26.473Z STAKES Found:  1  accounts for delinquent validator EM94TpeESGMrL1fhNvCQGTUfKzFkuxN7Mm1C899eSFZj
+2023-12-23T19:55:26.473Z STAKES Stake account AFJGh7e2k19P8a38x8BHuLjyZBUFz4yxpyYa7fnekUUB is activate:  0.00328288
+2023-12-23T19:55:26.473Z STAKES Found:  1  accounts that can be de-activated delinquent validator EM94TpeESGMrL1fhNvCQGTUfKzFkuxN7Mm1C899eSFZj
+2023-12-23T19:55:26.504Z DEACTIVATE Blockhash: 5wDcEiF7U5qxoEMnJZ2cNvJWXmDvCX1pgDGHZUveyRan
+2023-12-23T19:55:26.540Z DEACTIVATE Sent tx: 5jAGM8CTxHP4Bw2VtSDoRTT1jaSMbA9XzwPX4jTHqVaZMTYpG2oiuhKHtBXeogezU4vsdZprZeS7WVejYsVWqd6E https://explorer.solana.com/tx/5jAGM8CTxHP4Bw2VtSDoRTT1jaSMbA9XzwPX4jTHqVaZMTYpG2oiuhKHtBXeogezU4vsdZprZeS7WVejYsVWqd6E
+2023-12-23T19:55:26.641Z DEACTIVATE Waiting for confirmations...
+2023-12-23T19:55:45.081Z DEACTIVATE Confirmed.
+2023-12-23T19:55:45.081Z FIND Deactivated stake accounts with total balance:
+2023-12-23T19:55:46.516Z STAKES Found:  1  accounts for delinquent validator 4HyiqUSufzcC9poF1idgmUdSw2jfkLcsvgUD55GhzQtd
+2023-12-23T19:55:46.516Z STAKES Stake account 7QiLtdo7goGgHMnwYg8C2ZeoGNzB2KopDF5tnk78we4T is activate:  0.00328288
+2023-12-23T19:55:46.516Z STAKES Found:  1  accounts that can be de-activated delinquent validator 4HyiqUSufzcC9poF1idgmUdSw2jfkLcsvgUD55GhzQtd
+2023-12-23T19:55:46.540Z DEACTIVATE Blockhash: CarZsPBqtZVmmeqBPddmVpqQHM2NuvzjaBEa3iYrwJJp
+2023-12-23T19:55:46.568Z DEACTIVATE Sent tx: 5rYzuseek3gcXgtDcRcepgcSMjN1biwdNA5PLwCPuXY9m2TNiyByFRuN4czBYNGjp6Kj4Qj1NN7Y3L4U5r6sn6bH https://explorer.solana.com/tx/5rYzuseek3gcXgtDcRcepgcSMjN1biwdNA5PLwCPuXY9m2TNiyByFRuN4czBYNGjp6Kj4Qj1NN7Y3L4U5r6sn6bH
+2023-12-23T19:55:46.669Z DEACTIVATE Waiting for confirmations...
+2023-12-23T19:56:03.293Z DEACTIVATE Confirmed.
+2023-12-23T19:56:03.293Z FIND Deactivated stake accounts with total balance:
+2023-12-23T19:56:04.880Z STAKES Found:  1  accounts for delinquent validator 4VLG11ttfYfPaeAFpdLfLunFPdFh6Q7zuQoxqBqg3k6Q
+2023-12-23T19:56:04.880Z STAKES Stake account 5tp2fDqPf4dh5J6uNfnvTPCDYcMjFXh5Y93qUAgYF1cy is activate:  0.00328288
+2023-12-23T19:56:04.880Z STAKES Found:  1  accounts that can be de-activated delinquent validator 4VLG11ttfYfPaeAFpdLfLunFPdFh6Q7zuQoxqBqg3k6Q
+2023-12-23T19:56:04.904Z DEACTIVATE Blockhash: As8hLNA4f66jwEBVLCijbaFkvwG5nqeU5gCWVAATrca5
+2023-12-23T19:56:04.929Z DEACTIVATE Sent tx: 5JSn9roJWhAc1SBSBNpBB2hCYGJrQxptKnMQRydCoa43etnVjjKMGMqLsx9mMCHuZQ5hPcJoDgkGNLaPjauA1vKu https://explorer.solana.com/tx/5JSn9roJWhAc1SBSBNpBB2hCYGJrQxptKnMQRydCoa43etnVjjKMGMqLsx9mMCHuZQ5hPcJoDgkGNLaPjauA1vKu
+2023-12-23T19:56:05.030Z DEACTIVATE Waiting for confirmations...
+2023-12-23T19:56:22.947Z DEACTIVATE Confirmed.
+2023-12-23T19:56:22.947Z FIND Deactivated stake accounts with total balance:
+2023-12-23T19:56:22.947Z FIND Total de-activated: 0.016415144
