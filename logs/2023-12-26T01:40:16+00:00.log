@@ -1,0 +1,14 @@
+2023-12-26T01:43:47.291Z FIND Found epoch range to explore:  547 551
+2023-12-26T01:43:47.295Z FIND Found delinquent validators [ 'BsWaDs9qngLmrgYcqL4yT8jTNmAn9phzC13fXYJZv1rt' ]
+2023-12-26T01:43:47.296Z FIND Found reference validator 6D2jqw9hyVCpppZexquxa74Fn33rJzzBx38T58VucHx9
+2023-12-26T01:43:49.084Z STAKES Found:  3  accounts for delinquent validator BsWaDs9qngLmrgYcqL4yT8jTNmAn9phzC13fXYJZv1rt
+2023-12-26T01:43:49.084Z STAKES Stake account Gq2hvyJCdKGcHGE51oHHcmUuHFNxECM4zDkBKzhTHzTV is activate:  0.451945808
+2023-12-26T01:43:49.084Z STAKES Stake account g1Ed93PuxkUb6npWg4hk4yMZi1ZxM5wKzApf3LpvhtA is activate:  0.451955715
+2023-12-26T01:43:49.084Z STAKES Stake account 6MpXM5TCYjmFvCaGoVQ3xBx6BJccZfJrtwLyWK8fyLoE is activate:  0.451955715
+2023-12-26T01:43:49.085Z STAKES Found:  3  accounts that can be de-activated delinquent validator BsWaDs9qngLmrgYcqL4yT8jTNmAn9phzC13fXYJZv1rt
+2023-12-26T01:43:49.159Z DEACTIVATE Blockhash: AY7iP2t2rN9jZmVcFFSUvqjmULC1TsxSiGxtHS8W1k4K
+2023-12-26T01:43:49.243Z DEACTIVATE Sent tx: 463wSvdsNJ9pDJ9Z8kar6ifV3EWGEmdo1pWkELSS6XFEDEftCPwPJ96yxiPjeM67zxhcrw6yFCsrRrcMomZEaDLR https://explorer.solana.com/tx/463wSvdsNJ9pDJ9Z8kar6ifV3EWGEmdo1pWkELSS6XFEDEftCPwPJ96yxiPjeM67zxhcrw6yFCsrRrcMomZEaDLR
+2023-12-26T01:43:49.349Z DEACTIVATE Waiting for confirmations...
+2023-12-26T01:44:07.165Z DEACTIVATE Confirmed.
+2023-12-26T01:44:07.165Z FIND Deactivated stake accounts with total balance:
+2023-12-26T01:44:07.165Z FIND Total de-activated: 1.355857238
