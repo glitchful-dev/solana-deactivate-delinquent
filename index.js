@@ -111,7 +111,7 @@ const getAccountsToDeactivate = async (epoch, validator) => {
             return false
         }
 
-        log(`Stake account ${pubkey} is activate: `, account.lamports / 1e9)
+        log(`Stake account ${pubkey} is activated: `, account.lamports / 1e9)
         return true
     })
     log('Found: ', deactivable.length, ' accounts that can be de-activated delinquent validator', validator)
