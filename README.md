@@ -3,7 +3,7 @@
 Stake of Solana validators inactivate for multiple epochs can be de-activated in a permissionless way. This repo is a simple automation of this process.
 
 ## Analytics
-The following query can be run on flipside to check how the de-activations done by this code are doing:
+The following query can be run on flipside to check how the de-activations done by this code are going:
 ```sql
 select
   tx_id as "Transaction",
