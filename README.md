@@ -16,11 +16,11 @@ from
   lateral flatten(input => txs.instructions) as instruction,
   lateral flatten(input => txs.account_keys) as account
 where
-  date_trunc('day', block_timestamp) between '2024-01-01' and '2025-12-01'
+  date_trunc('day', block_timestamp) between '2024-01-01' and '2024-01-31'
   and array_contains('ByeByeS4EhEhAPmqE2nULzwzx9yK1Ee47We3TCQ5Bwys'::variant, signers)
   and succeeded = TRUE
   and account.value:pubkey = instruction.value:parsed.info.stakeAccount
 order by
   date_trunc('day', block_timestamp) desc
-limit 1000
+limit 10000
 ```
