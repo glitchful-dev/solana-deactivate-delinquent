@@ -1,0 +1,1030 @@
+2024-06-05T13:01:10.275Z FIND Found epoch range to explore:  621 625
+2024-06-05T13:01:10.278Z FIND Found delinquent validators [
+  'ECtfR2fAwQV1GxhPqybdexz1cwJTDhSaeSQwuw6EG3Bw',
+  '8rr2MSUfLmejRVUbsLYRsQCcB8rHsBqjicdGoYhZdvgb',
+  'Fc2GXrMTuZvZh5cPR9ovSk5Jn9auU4pdjt337G5MczMq',
+  '9cKVaFggtMmcH4B398iTiCRMhhMuvzBnM7xMpMLSFuik',
+  'CVKBDZBgHYimyaznSwmFR55U5jEjm3dDh7UyiYyhTbzt',
+  '9svtcpqoFv4JMvaFg6fDTw5nFsFQM2Kd2X5HaSZsoYE6',
+  'DTunugoGTxVBDhdmWmdhATsYimxM2sEuJafs97mLFmaz',
+  'FBpY7LcnhwjgBNRzzQfhkLYk1ixnzRLqj39HWewNY4Jy',
+  '8b9iGk6LpRyawMkwdubq2e2PVtmdSrJ6DchW8uosoUzc',
+  '2ZafMrwTVAHtCkn9PfGQqmqdD34tkWdqvvHfsxebbgKD',
+  '6CEi8mpebENyYPfPDpXRHSPbJBUHEFwU7ftLVhwBSamt',
+  '45EFuLYe3dENpTgxTb44xB7NCozKdZpdFoJigUPPfAMj',
+  'Hjr3PbQPmyqe78AiTiMycpmTiVc3EDTguWGqZcrjNc6A',
+  '62wwu7fq8bh9gX9MUySZAGLDCBjMTni3yrMEnxzCgNyS',
+  '3yeRxYXdpkFh92kibqHHXQtmQiEUPtNFKsdDrAEhwWHQ',
+  'H2z3pBT62ByS4jpqsiEMtgN3NUFEuZHiTvoKCFjqCtD6',
+  'EsEMysjrcpzP1yeXcsurYrtNBANUWJCTHqKv1k6tXh28',
+  '6PnqVv9VAdqMiw5L5pw6AtwP2wvwNq11MDfesxKJgP5F',
+  'EVCv8mqqAkafaUkPTyPGvrFgECs4Nq6uvJeGJ56MchAS',
+  'F2nvZxQxzJAiuAqaDpTq1XGtdMPt5XPKVF9N6KzheAQc',
+  'Gzz97i8Gp6f19gBmqEmYv7gNJ63gjuSGerAErcavDth7',
+  'ArWF5nxj7AupNtDztDz7sna5qFEBj11uVtJBnF77pWqo',
+  '5MzyqGZTsfWEpmwXJMNioii5m4HvG57L7ZxRakkNb3nw',
+  '2kPpoyJ4AuVPKrJAVpDZuaH2RkZoBtzNzXQM459cZEkd',
+  'CbTt6Wyk2HiNjyGiwvAABPoRXrSBxLwFFiWd4rndXwqr',
+  'DBtox5xnHr4zWFfpCYbdu81b6Sfk2kcUZ7x4uxs5kANV',
+  'DbvxuUhsh81y3f1NrqHEHbWA6xJfVbfY3eNTa1rFoWzQ',
+  '6zQxjGdH1yfXSGCdBmxfRLx5hE4Zgh4zQE5mmb7Px2ax',
+  'DBVRC4MVwVQf82G1w4q7vuJYYrp4aghci9PgZA9WUBuH',
+  '8sqpHTT3B8kLto6Vb98bNP93MVuRuPKdcUAwZaP6xuYs',
+  'DeSh5nWNUkVGcuHhA7nr9Mcwa4wV9Y9kDKkNDFqzawgC',
+  '21YUExgXBLkR2FcPzMxcPC5BdrwG5qzMjwf8BmpSCGem',
+  'GjEf8WA7HkUvLgoGL2AejAdDRjADy99rC6cqXWT4BqfG',
+  'EEgn6UpRjJZYntNQnEpodqZeShDeYhHDyPJccziQ3rhh',
+  'BifNttkf51HzsPgUf2keDdVBL64YvnAVQGF3fkNDfB56',
+  'asUJMghrds4gXDWsLoVMGiNYBxSbRSiD3zHVaNA1NBG',
+  'HprbPTS27zWQMqfqvuTCMCnAwmMSqXMjCaMa3HxpEMsg',
+  '4ZyrfokvVoHjyUA8bewrURrgkL4ktNHj93qctJnCaJ1u',
+  '8CrwVZYFQ1kTGXcdX1QFGqpMth1XT9SjhkhJX6LgABpL',
+  '5FDE4cGLm6boyyLvVu9DvxQqshBAb2bvjUXxyZFWcW6r',
+  '26iSti8PzN59f8nzW4AcQB8ASUo6DKNC1LfJwo9kJUjN',
+  'DHPtRabEF37ZtYZEF9sNzLarJzEPvN3Mb1SE9Lgw18am',
+  '6DVFiYKvmPRvYjins4LtRSiEm81CswtP5yHTpgPdtrgK',
+  'GW7GBrnUKPhPytbnYUQsCutVgo42qbDDgvpFbHHbKfDJ',
+  'LbShbQMVKBiaTrxD7GWNEsCXb4bfFuQuEBxtX3eA7CX',
+  '5YMb9HYzBn9Mu2FxDKP9Pa6dUEcniFtwbewpGRu5EmfC',
+  'AxroSy8ubkN2pk8zbbp4Xw7fTytKdhUr5gfM6gnP3wqj',
+  'GyCgzHMj9CkfrLHJP9a7m5b2tzcRRgVYsuJ91jMb6vDv',
+  'J8fzX397jenCt4Hsr5roS37hrcTPgjPsqsrFS4JW3yX3',
+  '2zphdmQX9AYYFp52jTRzBPHYzVtqDuTWKbzJfqMu3xcL',
+  '87BpJ19DeRVD5dYmvuLUJNwnySQ4oxiCy3872iVC5qyd',
+  'Bjjx7gsBv1NHz4L1tGFN9DQsUm4qF4QwiwaV4cwsz5HS',
+  'HRm1f8FXW7MuMYWXegZxXqQ28v2kG2aFnfyxa99R9Stb',
+  '8uCsxn1eLY4jC7FEJK9gnBhtMafVziDtVKtuisLJFD7t',
+  '9JhuWvxaw8S1dHA5TjoeVkxiJ2PHEdUBQAhXZdjkfU8',
+  'HQotcnK69tWMFixZYQibYQ5rVPV7H8Mw2VxdMBVG6eyP',
+  '491AojvAJnRFsXMmhpxebFinaAUwC9h31DREX429ggWs',
+  'EzLBurdF42av6P8rXPokkei1kKiKXQ7us3yNNX9qtc7E',
+  '42eXr1dA6tbrYHkXji6EQqHdZt5gzfLss9X6JNiuPov3',
+  'CHUF69YeA3gZv484izYuhKk1EjaJYjv1pNoJJ6QeFDQc',
+  '96EryGQVdnmAQNNzKnr6gfCVFzVwhC7w5kXrGRHLBrVj',
+  'J4ooR8AV8o5Ez2qN8ghQhR7YKhqRY5WEHfE8dTR2Yo6a',
+  'GkvRidefgyGFpEfNqdnfXMX3PgAWkGPdSDhKNKgRn6jU',
+  'EvWbwUJhBKYmbV3gnLBCr55NeJ585JuRU8Aos7u9jiHz',
+  '2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8',
+  'DvZTUfs7hmaZ5DEx7nFSS6uhM4vZsgSswLkdSDybKk2J',
+  'Eyguy5v25fonYVzPPpQ4fTGFjxkSmQzcHz5X24d8VpVQ',
+  '9CquYfmEAUs6FsrLP14DxcyryehchkfTKeQ2Fbg1HraN',
+  '8zCJw6dETsPGCCkre459fDoM4YjK6BCVqqfSyyhRXtaT',
+  'Gj2KGF52hL7JzqeWAXVXK3HfnHqNC2pJdkbQbe2nhNML',
+  'FhBAYPKiJbo9ZxmKhTxtuKtL7hLzSRsb7R4mkRn2W3kQ',
+  '52HBJgFBWwMSk6maAqMshgc1iniQKrRiTgXsQCCT66XA',
+  '2i2KSzEpyQPzWJ3aqNPyspQ9hWqw36FmbUEoov17cpeA',
+  'CqZt8CTQfNVH6SYWp1HdWXoBhkFqdT8nEFbSM5bB5hvN',
+  'CpVnQK5wKrWuRkMDssp4bqihtbUKfJwGTZAsWB5SymaY',
+  '4TPBarwgZuuztwD7biHtt87L2BTmH4KjcePABijDeiyW',
+  'Egu7ue8R5C9aCMNAhy6fLS1mytChw1sjdWCWFn8WmyLK',
+  'Cr7E4XnUnKgRasGdUTrY9NXgmTxJj7mDYa6r3m591itF',
+  'DGgC3QYQsoPZiZgjWiMfsi59CrmSdQuvUF6orW4A34RB',
+  'irVai3HewJyN1WJmBNVcTGEDZBMAMUmpvMcXuU94Mbc',
+  '9xrkErFEcs4WU75jQQtGEJfV4ePUEyGF2PU4b94BNy1i',
+  '5HedSkUKfYmusiV7rAppuHbz7fp8JmUoLLJjJqCQLS5j',
+  '7xSQKGWBwASNFVzBHyJnS1Vivhu5Ha6m14RfkToYPEyx',
+  '5kJituZ6Jg99XUT2CQP4GRgCmhJqF1DVbZcYk6aAHdTx',
+  'Ap9QwurB2Jvj7uuFjyXsdWaRryFJQFdNttHZ9TB3W2bV',
+  '6JwTC7k6yEsGnoVrfN2PjcwMhNLEFAJBrFdo1ygYY3MM',
+  'BLU4mrxkURvru5YHt4TzQu2qNFDU8PPGU3frSUxn4Zj9',
+  '9pxdYafUaYcQxCFau9CigKPANoTdL88tGC5hxhAvW5CP',
+  'Gm2aDA6uG4joKCtkjwjph2sKSxWrtszgeUZ9VYCzVZx5',
+  'FVEkc1o2EvMBafK6YcL3w9ebucdxuaaaA8VGq1NBNJ7e'
+]
+2024-06-05T13:01:10.280Z FIND Found reference validator 6D2jqw9hyVCpppZexquxa74Fn33rJzzBx38T58VucHx9
+2024-06-05T13:01:12.900Z STAKES Found:  19  accounts for delinquent validator ECtfR2fAwQV1GxhPqybdexz1cwJTDhSaeSQwuw6EG3Bw
+2024-06-05T13:01:12.900Z STAKES Stake account BUYP9KLuuJvjnjdS9GhQZpYGgzgujVFBxBviED9HaySy is de-activating:  79.846891573
+2024-06-05T13:01:12.901Z STAKES Stake account 575Nt6bCPjobN9gyCatNMiuKr4UVLisBnYUAzYU7iSyH is de-activating:  80.31005684
+2024-06-05T13:01:12.901Z STAKES Stake account HgERtLkEDYSX4PyuPSTafMRH4y2eQZZ11XyQrE5XDSk is de-activating:  2.21726147
+2024-06-05T13:01:12.901Z STAKES Stake account Btp5bC1LFHczGSE6hvHRVep5WecnhbdcEBonkK8uvUbU is de-activating:  0.003351947
+2024-06-05T13:01:12.901Z STAKES Stake account 2nBtwf7wM6gUArWaGnxwWmApkUYpREqGagKkbKSerXD2 is de-activating:  74.745788437
+2024-06-05T13:01:12.901Z STAKES Stake account DkGpy3K43kdg1QQ5wRkWW79RAf6LYuUAFYZKvWEv26rh is de-activating:  71.88237574
+2024-06-05T13:01:12.902Z STAKES Stake account 4uggmc8LcvHD3CtwgJtGGZNi6SQm2S98nZkNmFkCTDT6 is de-activating:  32.505678305
+2024-06-05T13:01:12.902Z STAKES Stake account 6Cb9rgz1S7RWyaV9oVgUMDw8GTAxLJ17C6kZXv2CwzaQ is de-activating:  65.601453713
+2024-06-05T13:01:12.902Z STAKES Stake account HZfM8xxWzGeEC8SpqQYGENpyjKn7Aq5CkvdNRC5GK2NJ is de-activating:  89.298060536
+2024-06-05T13:01:12.902Z STAKES Stake account FDXwacapB89Vz2UPXUW7K6MtNzWgR9D58LS9UMMHR9WX is de-activating:  73.879933953
+2024-06-05T13:01:12.902Z STAKES Stake account DdfuGKWf4n6r5TMBQKWGwDSF2NvNsjGgxnSH55HmP4Qf is de-activating:  0.003310506
+2024-06-05T13:01:12.903Z STAKES Stake account 7r2PUkBhY45em4Ah6afozV7fsBHnwKtzUKxSoseStCTh is de-activating:  0.00328288
+2024-06-05T13:01:12.903Z STAKES Stake account GxaGS4HSF7rgpyrhjxUAyMscUhhhbtGNGfFpnTdLjpYi is de-activating:  102.168706967
+2024-06-05T13:01:12.903Z STAKES Stake account 74ePEPSmXEB53UFEokFRovYugyabr65oJK97kGyiYgm5 is de-activating:  77.186038648
+2024-06-05T13:01:12.903Z STAKES Stake account 9mCGo4TWXUqHrMUdAzxf5c2QtqLBtmRukfmCupKjeirp is de-activating:  4.992822515
+2024-06-05T13:01:12.903Z STAKES Stake account 2ti9jtgBRNmnuMLdepKkm8RoPTDnWrp5J4madT1x3NTB is de-activating:  136.492840027
+2024-06-05T13:01:12.903Z STAKES Stake account 8Md4oC6xKZHTgqJ5siJYddi3wGEMkijUfqCG1mcH6LMw is de-activating:  116.511989745
+2024-06-05T13:01:12.904Z STAKES Stake account 7RSLWri1d1qYSd6xM2vhmqHZcLxczefAryreQCgtTFfX is de-activating:  85.896297169
+2024-06-05T13:01:12.904Z STAKES Stake account c7nrQDJs2HSSXX16CqyAQsdxkKhsQbKjY6uzjnRSjDP is de-activating:  0.003358163
+2024-06-05T13:01:12.904Z STAKES Found:  0  accounts that can be de-activated delinquent validator ECtfR2fAwQV1GxhPqybdexz1cwJTDhSaeSQwuw6EG3Bw
+2024-06-05T13:01:12.904Z FIND No deactivations possible for this validator
+2024-06-05T13:01:15.575Z STAKES Found:  20  accounts for delinquent validator 8rr2MSUfLmejRVUbsLYRsQCcB8rHsBqjicdGoYhZdvgb
+2024-06-05T13:01:15.575Z STAKES Stake account 3GHtNzAqtDDLT9gG6N78PAkbiUU5YnEo5cGP4iKmZS85 is de-activating:  0.003312918
+2024-06-05T13:01:15.576Z STAKES Stake account FEMgViBTk3gpE1q3oMQoTk6JK8gfMnEWci7MXWqnybaK is de-activating:  107.904708006
+2024-06-05T13:01:15.576Z STAKES Stake account 8PSoPMYpiKK5sXLSpSM9y6Cv6c41Wh6isNR2dX9skoq9 is de-activating:  0.00328288
+2024-06-05T13:01:15.576Z STAKES Stake account 5TGu8if63NmAYUaTFQbwfXo5odJcxPwMAq1hEdhb7i3A is de-activating:  0.003326975
+2024-06-05T13:01:15.576Z STAKES Stake account E8ysoEAZP5CVuCaxJLehheFy7qi6KxLgv34StUqKHfgp is de-activated:  57.973065116
+2024-06-05T13:01:15.576Z STAKES Stake account ER6xgRL9oGs4W89qEgde8MDW4MD3m3FHx94TX79b3CPa is de-activated:  29.668052
+2024-06-05T13:01:15.576Z STAKES Stake account CxakK1e4BHs35TeG5FmfBgekkGv1wY3MSzSDPSsRxwjj is de-activating:  102.100273667
+2024-06-05T13:01:15.576Z STAKES Stake account 8utctW1EX1v46TEkHoycRu4EkzWmtARaKizAuGQ5yjCU is de-activated:  18.717850272
+2024-06-05T13:01:15.576Z STAKES Stake account 343ghUWBHaKafdoxxYRCyThFxeuE1B8MZAWfqxr5T8K5 is de-activating:  162.235920576
+2024-06-05T13:01:15.576Z STAKES Stake account 3eNDSVeJQHBsiqZ2p57JgFjiBZ4xeGLZfJT41SUUhD1k is de-activating:  0.003360657
+2024-06-05T13:01:15.576Z STAKES Stake account Bd7iKzG4wgvtw6TWKMYnYT7snPnqqS7c1qkaVW4Wce61 is de-activating:  121.433630518
+2024-06-05T13:01:15.576Z STAKES Stake account 7aLSgCYg1mWJcwA2wTzArNH9iswcMg8YmtYchptz6DCu is de-activated:  66.311657117
+2024-06-05T13:01:15.576Z STAKES Stake account EEBLpa2HRdTKvyswrffZ5Zs5vD6FRKZmRPXYnbBBPDvT is de-activating:  0.003354407
+2024-06-05T13:01:15.576Z STAKES Stake account E8t4MyWbvQgc6Ndu3FYHJkh74KRQPkJPVcfPvidVuFjC is de-activated:  69.053954354
+2024-06-05T13:01:15.576Z STAKES Stake account HyNmparkRdSQzNXedzHuWL8DEn1k7mj8emUFKyrv5nFY is de-activating:  87.695886992
+2024-06-05T13:01:15.576Z STAKES Stake account pTXkBT18hX3kkYNf5k4KnoWXPmwD9a4zma4zLBMgPQr is de-activating:  2.222344318
+2024-06-05T13:01:15.576Z STAKES Stake account BvrGU4sy2XLo4QAojt7F6vGPPp3LQh5gwwFsyxQc5dTJ is de-activating:  97.555400377
+2024-06-05T13:01:15.576Z STAKES Stake account 7WUuo5S8Dqaxx7i5ek9vHXvuRhP3is7LE7Vnti6wrVuD is de-activated:  79.311552327
+2024-06-05T13:01:15.576Z STAKES Stake account 216HS1wTWQWr4mTpdfCFAMFzNwnkdbvtrUZMLJzK2Gda is de-activating:  90.297559836
+2024-06-05T13:01:15.576Z STAKES Stake account 9inHUtnGKja4yeNZPQPuE7vviuo7SE1FfyAd4qCVw11C is de-activating:  95.80891947
+2024-06-05T13:01:15.576Z STAKES Found:  0  accounts that can be de-activated delinquent validator 8rr2MSUfLmejRVUbsLYRsQCcB8rHsBqjicdGoYhZdvgb
+2024-06-05T13:01:15.576Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:01:23.460Z FIND Error processing validator Fc2GXrMTuZvZh5cPR9ovSk5Jn9auU4pdjt337G5MczMq 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "4718bdff-7bef-4d0c-a53e-88eaa6689809" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "4718bdff-7bef-4d0c-a53e-88eaa6689809" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:01:31.279Z FIND Error processing validator 9cKVaFggtMmcH4B398iTiCRMhhMuvzBnM7xMpMLSFuik 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f722e4a9-3874-41d0-9b98-470845507978" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f722e4a9-3874-41d0-9b98-470845507978" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:01:39.217Z FIND Error processing validator CVKBDZBgHYimyaznSwmFR55U5jEjm3dDh7UyiYyhTbzt 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7b5933bd-0e28-482a-a3c5-15a5a7973fed" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7b5933bd-0e28-482a-a3c5-15a5a7973fed" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:01:46.992Z FIND Error processing validator 9svtcpqoFv4JMvaFg6fDTw5nFsFQM2Kd2X5HaSZsoYE6 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f4538203-a97a-4f05-a838-0f41f47980f0" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f4538203-a97a-4f05-a838-0f41f47980f0" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:01:54.813Z FIND Error processing validator DTunugoGTxVBDhdmWmdhATsYimxM2sEuJafs97mLFmaz 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cc12fe3e-c2ec-4ff2-94ee-c4d3e544606b" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cc12fe3e-c2ec-4ff2-94ee-c4d3e544606b" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:02.662Z FIND Error processing validator FBpY7LcnhwjgBNRzzQfhkLYk1ixnzRLqj39HWewNY4Jy 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c4db91dd-cd77-4944-9d19-9c8efda8af82" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c4db91dd-cd77-4944-9d19-9c8efda8af82" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:10.422Z FIND Error processing validator 8b9iGk6LpRyawMkwdubq2e2PVtmdSrJ6DchW8uosoUzc 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "4ee0f418-a256-42f8-9e44-5ceaace3626b" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "4ee0f418-a256-42f8-9e44-5ceaace3626b" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:18.250Z FIND Error processing validator 2ZafMrwTVAHtCkn9PfGQqmqdD34tkWdqvvHfsxebbgKD 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "020b9dff-0dde-4c79-b603-75fc4b16b86d" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "020b9dff-0dde-4c79-b603-75fc4b16b86d" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:25.970Z FIND Error processing validator 6CEi8mpebENyYPfPDpXRHSPbJBUHEFwU7ftLVhwBSamt 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "3f6dfedd-a2bc-40c9-adbf-9aaf645f9eae" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "3f6dfedd-a2bc-40c9-adbf-9aaf645f9eae" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:33.727Z FIND Error processing validator 45EFuLYe3dENpTgxTb44xB7NCozKdZpdFoJigUPPfAMj 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "6094a5d2-8a02-40e2-9c0c-e5bd5430dfc1" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "6094a5d2-8a02-40e2-9c0c-e5bd5430dfc1" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:02:44.132Z STAKES Found:  10  accounts for delinquent validator Hjr3PbQPmyqe78AiTiMycpmTiVc3EDTguWGqZcrjNc6A
+2024-06-05T13:02:44.132Z STAKES Stake account 8Z9G5Cj9zkgaNePCvM8mSpx3iNfypRrb4GUZZGPHKdW8 is de-activating:  70.3889405
+2024-06-05T13:02:44.132Z STAKES Stake account 9B6qF97XT2q2ZeakBxQh3eyybEPHvY4KziqXJFNQ9wLt is activated:  2.217474138
+2024-06-05T13:02:44.132Z STAKES Stake account 8pXs4MgAmSLd3mqWSyHz3JspwhT6ABunZTmAvyGakKbR is de-activating:  34.955904865
+2024-06-05T13:02:44.132Z STAKES Stake account trGAqsktdcHHLMoKRQSdfnm67PsT3EJAduwFxPXVFEs is de-activating:  22.210531597
+2024-06-05T13:02:44.133Z STAKES Stake account FarGksEhEBgaYjXmLh2FouG9UThHY5exnszZSyy6bksm is activated:  0.00328288
+2024-06-05T13:02:44.133Z STAKES Stake account 3uo4MXzDHFaXd6R9rXhfhjPTMxLrcvWTLwr5gStgRWo3 is activated:  105.618892677
+2024-06-05T13:02:44.133Z STAKES Stake account 7UUrMJUugEgJeSZvdd8kVVn8YZ7nTfH2ZGCKujJxHXZP is activated:  0.003352051
+2024-06-05T13:02:44.133Z STAKES Stake account 93SRSqQsDhX51oPuv2i2zjLnhxc1FP1xTCUvTw2ELa2g is activated:  0.003356781
+2024-06-05T13:02:44.133Z STAKES Stake account KAvRsRHEXYcYc3jg3WiGL1eYhwvypAcg2mXjzGWrdpf is activated:  0.003291852
+2024-06-05T13:02:44.133Z STAKES Stake account 6gf3tWLR5tb4B45LTqTrDpsLsTaCh5daaQLaxcuzcB9X is activated:  0.003310709
+2024-06-05T13:02:44.133Z STAKES Found:  7  accounts that can be de-activated delinquent validator Hjr3PbQPmyqe78AiTiMycpmTiVc3EDTguWGqZcrjNc6A
+2024-06-05T13:02:44.145Z DEACTIVATE Blockhash: FNPi6vSf4qmY4btUY37TRhz6j8pTUzaqnMyAXDCcaRmK
+2024-06-05T13:02:44.167Z DEACTIVATE Sent tx: 2Qx3opDNQMWqAzvHzk3Qjt2Q2UAydZujizV5GRvUbhJrBLGJse3Njygbp8GSqdDw1xsVDSoHgrvEXMqVa3QtJoBQ https://explorer.solana.com/tx/2Qx3opDNQMWqAzvHzk3Qjt2Q2UAydZujizV5GRvUbhJrBLGJse3Njygbp8GSqdDw1xsVDSoHgrvEXMqVa3QtJoBQ
+2024-06-05T13:02:44.271Z DEACTIVATE Waiting for confirmations...
+2024-06-05T13:03:20.536Z DEACTIVATE Confirmed.
+2024-06-05T13:03:20.537Z FIND Deactivated stake accounts with total balance:
+2024-06-05T13:03:23.260Z STAKES Found:  8  accounts for delinquent validator 62wwu7fq8bh9gX9MUySZAGLDCBjMTni3yrMEnxzCgNyS
+2024-06-05T13:03:23.260Z STAKES Stake account FVpm9E9GnPzY4vBcx2h2fQPZq9dv79YG9qWxxshLf6Mg is de-activating:  0.00328288
+2024-06-05T13:03:23.260Z STAKES Stake account 2xE2VNZhVCbt1ELMpQKAH2p2xTZVdtP9WMzPgErPDgXf is de-activating:  10.003148093
+2024-06-05T13:03:23.261Z STAKES Stake account 2JsrcG4JmdfyVuPqprgyTsPDd3hQtdzjo5SfHv1zcmX6 is de-activating:  172.316981791
+2024-06-05T13:03:23.261Z STAKES Stake account 3g2X6GmGX6yeidTgJKvpNy7gxJgksfpdwWRMTo7rewGa is de-activating:  0.003356978
+2024-06-05T13:03:23.262Z STAKES Stake account ELBhSpBFzoZmT54HwBu2z2wu5vWtTyrxWZP54zTLw9qF is de-activating:  16.479051892
+2024-06-05T13:03:23.262Z STAKES Stake account 41LY9wMW98mGKrYmHog8bwpP5M8gZkYPRd9oNyURCNUX is de-activating:  0.003309363
+2024-06-05T13:03:23.262Z STAKES Stake account AbEibwFFFhweB4zFNi5igTjFbNad5vUdaxrRnJYB46r3 is de-activating:  0.00328288
+2024-06-05T13:03:23.262Z STAKES Stake account 7qCnixCNAEAi1HBVi5yk2RpsKWGbDoPzJuSgav46DhRS is de-activating:  2.215591705
+2024-06-05T13:03:23.262Z STAKES Found:  0  accounts that can be de-activated delinquent validator 62wwu7fq8bh9gX9MUySZAGLDCBjMTni3yrMEnxzCgNyS
+2024-06-05T13:03:23.262Z FIND No deactivations possible for this validator
+2024-06-05T13:03:25.639Z STAKES Found:  9  accounts for delinquent validator 3yeRxYXdpkFh92kibqHHXQtmQiEUPtNFKsdDrAEhwWHQ
+2024-06-05T13:03:25.639Z STAKES Stake account HjmpTUGJHtb2PhXr2ySwnnUG2VLdYjURpd4YLoJP1eto is de-activating:  0.003313745
+2024-06-05T13:03:25.639Z STAKES Stake account 8oDcN7oWANJyoW9VrHUWme2Ck2rFyDx9QqDNmfaJ1Cs4 is de-activating:  44.235401203
+2024-06-05T13:03:25.639Z STAKES Stake account CmrzWjZsTxDQKRaMEtT5K38aAcTZLerqwdKkQxc64Tpu is de-activating:  0.00328288
+2024-06-05T13:03:25.639Z STAKES Stake account 2x7q4jqaAUnNNWNLZwCYQGykZF6uXspWxx2ebMsDLUVQ is de-activating:  28.085102288
+2024-06-05T13:03:25.639Z STAKES Stake account GjkKwzKymKuff4NDh2Wducac4L8f22zteyZvLv2Anqrr is de-activating:  2.224154219
+2024-06-05T13:03:25.639Z STAKES Stake account 833NBwsUqv2QeCRfFJLkNDyDBKouCTadNvoDimYjgrG7 is de-activating:  0.003343356
+2024-06-05T13:03:25.640Z STAKES Stake account H3tZAgCTqzesdmFxP4Qpcert7Lt1ZVESsGrP16zp9weW is de-activating:  105.936973171
+2024-06-05T13:03:25.640Z STAKES Stake account 3NhbAqpTXZqBuMnCfJQ2RngY3EhASJ2mNLnjwFAoYyLD is de-activating:  0.003343356
+2024-06-05T13:03:25.640Z STAKES Stake account EGc5CBmxacV8Z5PkfamNrnvQ1cBEJ8EKpsYnDDLNy5tg is de-activating:  0.003294677
+2024-06-05T13:03:25.640Z STAKES Found:  0  accounts that can be de-activated delinquent validator 3yeRxYXdpkFh92kibqHHXQtmQiEUPtNFKsdDrAEhwWHQ
+2024-06-05T13:03:25.640Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:03:33.375Z FIND Error processing validator H2z3pBT62ByS4jpqsiEMtgN3NUFEuZHiTvoKCFjqCtD6 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "5ce004b2-ac0e-429f-b311-3ae945c06dda" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "5ce004b2-ac0e-429f-b311-3ae945c06dda" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:03:41.149Z FIND Error processing validator EsEMysjrcpzP1yeXcsurYrtNBANUWJCTHqKv1k6tXh28 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c7760979-74ad-49bc-8937-21d967adea39" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c7760979-74ad-49bc-8937-21d967adea39" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:03:48.911Z FIND Error processing validator 6PnqVv9VAdqMiw5L5pw6AtwP2wvwNq11MDfesxKJgP5F 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1e3c9fe4-ec29-4acf-ab2e-50931070758c" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1e3c9fe4-ec29-4acf-ab2e-50931070758c" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+2024-06-05T13:03:54.695Z STAKES Found:  8  accounts for delinquent validator EVCv8mqqAkafaUkPTyPGvrFgECs4Nq6uvJeGJ56MchAS
+2024-06-05T13:03:54.695Z STAKES Stake account 8g3Jon2GKLwNEc8XhJcX2KMTkoD9C7W6r8xQRXsMkNZH is de-activating:  0.003311058
+2024-06-05T13:03:54.695Z STAKES Stake account 8D61f4Ex7gDPDApuV4kJ5XnPnsZcuREXfMT3iUV4jCm5 is de-activating:  0.003356985
+2024-06-05T13:03:54.695Z STAKES Stake account GvwD67CT7dLYmQHbMtWov9zbxHRiTNAThkitDNdUtxt9 is de-activating:  0.003293323
+2024-06-05T13:03:54.695Z STAKES Stake account 8Pw3ZRHwPZKLwxQiCiNTpuW8daMRSzpCbcS76H4b3mQ7 is de-activating:  0.00328288
+2024-06-05T13:03:54.695Z STAKES Stake account 2GW8kyn9tCxWdreN5ku6T3WdCTqBHd9LRoLcfLVoqVBE is de-activating:  0.003350756
+2024-06-05T13:03:54.695Z STAKES Stake account B5Gr9tbp4VuTjkT8ttCBCB6bors1193u3t6MRzg6ZFRo is de-activating:  109.769621392
+2024-06-05T13:03:54.695Z STAKES Stake account 7XXEj61tvKpjHHza4jMeTgaRT1WRtD3o3devx4TqBGLu is de-activating:  2.214835582
+2024-06-05T13:03:54.695Z STAKES Stake account 88d5pcEf2FmZm2pXrSiapAr6PEfHkwbJxks4TFvZBz4H is de-activating:  0.076201485
+2024-06-05T13:03:54.695Z STAKES Found:  0  accounts that can be de-activated delinquent validator EVCv8mqqAkafaUkPTyPGvrFgECs4Nq6uvJeGJ56MchAS
+2024-06-05T13:03:54.695Z FIND No deactivations possible for this validator
+2024-06-05T13:03:57.013Z STAKES Found:  6  accounts for delinquent validator F2nvZxQxzJAiuAqaDpTq1XGtdMPt5XPKVF9N6KzheAQc
+2024-06-05T13:03:57.013Z STAKES Stake account 44Qohe91NjyYrqXN5wL7hp2XhmJt6h9JuhBn5wYpi4po is de-activating:  0.00335513
+2024-06-05T13:03:57.013Z STAKES Stake account 5jSbP2wQzF3STnW7JSc6wbkmfkcStDKSHWQHyK5YpL9t is de-activating:  109.437081171
+2024-06-05T13:03:57.013Z STAKES Stake account 4e8ipgqkoDfbp8QqYE2geJRZLLXsS1BshuPSDoxkZTmC is de-activating:  0.003348951
+2024-06-05T13:03:57.013Z STAKES Stake account 8jZFzRcg2RqUQG4yvX6DEx9sBvWxwXZLFzuYNAreosTM is de-activating:  0.003309875
+2024-06-05T13:03:57.013Z STAKES Stake account HJXnfzcSujNXBVDdvdcVGkSewaKchmfZV6jDJbC2bx9X is de-activating:  2.211220317
+2024-06-05T13:03:57.013Z STAKES Stake account HGZfXHAgeinbse4y74vHbnruJ2GmW2UTCxv8LRMMgQrL is de-activating:  0.00328288
+2024-06-05T13:03:57.013Z STAKES Found:  0  accounts that can be de-activated delinquent validator F2nvZxQxzJAiuAqaDpTq1XGtdMPt5XPKVF9N6KzheAQc
+2024-06-05T13:03:57.013Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:04.721Z FIND Error processing validator Gzz97i8Gp6f19gBmqEmYv7gNJ63gjuSGerAErcavDth7 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "a9454ec8-8810-45fa-a02f-b468d4381048" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "a9454ec8-8810-45fa-a02f-b468d4381048" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:12.442Z FIND Error processing validator ArWF5nxj7AupNtDztDz7sna5qFEBj11uVtJBnF77pWqo 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "ee753a08-edd4-4492-82a7-ac7320a4f172" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "ee753a08-edd4-4492-82a7-ac7320a4f172" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:20.166Z FIND Error processing validator 5MzyqGZTsfWEpmwXJMNioii5m4HvG57L7ZxRakkNb3nw 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1ebf34bb-e6b2-46b1-bda4-0071df4a6745" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1ebf34bb-e6b2-46b1-bda4-0071df4a6745" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+2024-06-05T13:04:26.136Z STAKES Found:  14  accounts for delinquent validator 2kPpoyJ4AuVPKrJAVpDZuaH2RkZoBtzNzXQM459cZEkd
+2024-06-05T13:04:26.136Z STAKES Stake account 3jo6jTWfhS2bpeom4yDK6w3FpiefwSTPRo5GA6PwGN1H is de-activating:  0.003294681
+2024-06-05T13:04:26.137Z STAKES Stake account D3xYDGXG5cdVtcdxeJgUuLzV9MJ2WLd4SYAxYhdSpksD is de-activated:  16.61067195
+2024-06-05T13:04:26.137Z STAKES Stake account 6xB2gBzWyJf4t1KHduPHibUU52gf4iaFLYnJva1MGUSy is de-activating:  2.224123361
+2024-06-05T13:04:26.137Z STAKES Stake account 3X9oMcTEcMWTYbnNN5qRqChm3HzEcntpcWgJKG1kmFU8 is de-activated:  52.62972941
+2024-06-05T13:04:26.137Z STAKES Stake account CmrPpw2hwkKxfNwZi8q1SoDjV6UrKXNpDXcoJyGLiY9H is de-activating:  0.003313739
+2024-06-05T13:04:26.137Z STAKES Stake account Go5pD3cAQc1WfGKBzPBBaWRB8Qe278GqpAXrdmcQUwX is de-activated:  61.050869723
+2024-06-05T13:04:26.137Z STAKES Stake account Gattiwc6v55izA58NQfB3J4GcsDsfiEBkbASQNea4Lqv is de-activating:  0.003360552
+2024-06-05T13:04:26.137Z STAKES Stake account FcKe2vJ4vRvXwAxBebsLn2QxDoAW6C3C3JV1GGNX3r1P is de-activated:  71.45583038
+2024-06-05T13:04:26.137Z STAKES Stake account JDwiLMvKmnyYhpKGBNdeHBA6ZPePBTcgdVujdDPCaLDd is de-activating:  67.683838014
+2024-06-05T13:04:26.137Z STAKES Stake account 6pHS3MpTWssH6ksDGJtKAvpF9fYw1ZB6nByFZkwYNZqU is de-activating:  0.00328288
+2024-06-05T13:04:26.137Z STAKES Stake account 5iP5neMRm3w8hxSZjPXVqjh1JbGV3Et2b5JqEATbYVxk is de-activated:  58.274795652
+2024-06-05T13:04:26.137Z STAKES Stake account 92Q4WSdutVLgUJVGGrVSBEJybtXwqr28PyFXKXGvXwSt is de-activating:  0.003355271
+2024-06-05T13:04:26.137Z STAKES Stake account AJhTfSqYwyXaqcHoi9fDm3Nqy6gyYrivW84NxYBoXzNJ is de-activated:  27.205717939
+2024-06-05T13:04:26.137Z STAKES Stake account HAnWTqHWGQE2umjMMQwKxjg8NWdFaurnn1h7LnWr5GNY is de-activated:  78.684329259
+2024-06-05T13:04:26.137Z STAKES Found:  0  accounts that can be de-activated delinquent validator 2kPpoyJ4AuVPKrJAVpDZuaH2RkZoBtzNzXQM459cZEkd
+2024-06-05T13:04:26.137Z FIND No deactivations possible for this validator
+2024-06-05T13:04:28.366Z STAKES Found:  8  accounts for delinquent validator CbTt6Wyk2HiNjyGiwvAABPoRXrSBxLwFFiWd4rndXwqr
+2024-06-05T13:04:28.366Z STAKES Stake account 3cPhSNM9sjDCYzwydM8fCB1GYt1v11Gq3GKANyQMwnLT is de-activating:  0.00336017
+2024-06-05T13:04:28.366Z STAKES Stake account uL9zELQS5EqKPPpT8tjq2KkLsKZuPT9GhVef3Y2tZd7 is de-activating:  0.003293848
+2024-06-05T13:04:28.366Z STAKES Stake account EyewV5zgKP81yv2uSQdC2vjFNZg4wscvA8RsK4d7CoKj is de-activating:  0.003312904
+2024-06-05T13:04:28.366Z STAKES Stake account 3VvEYF85C9QdLvQKY7x3pdrrdQpVh8B6nG4T6Z5RaXMU is de-activating:  67.512734017
+2024-06-05T13:04:28.366Z STAKES Stake account 7S1U8zuVotprX2YvHDTLt4KtA4YEgr4G1JLwoT8tAWca is de-activating:  0.00328288
+2024-06-05T13:04:28.366Z STAKES Stake account 6dTYZPNKYKCizSmvkCv1ok6eHHtGBuWyxumZwKKmbn9Z is de-activated:  56000
+2024-06-05T13:04:28.366Z STAKES Stake account 2uctyRa73cvp5cVsQyem8kAH2DWpVgLHmYm8oCrLfXgK is de-activating:  2.222343384
+2024-06-05T13:04:28.367Z STAKES Stake account 3hic63xvZJWaTnwZf1zzkbrmdFoxJzqF72QoRTQBxrQM is de-activating:  0.003354423
+2024-06-05T13:04:28.367Z STAKES Found:  0  accounts that can be de-activated delinquent validator CbTt6Wyk2HiNjyGiwvAABPoRXrSBxLwFFiWd4rndXwqr
+2024-06-05T13:04:28.367Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:36.015Z FIND Error processing validator DBtox5xnHr4zWFfpCYbdu81b6Sfk2kcUZ7x4uxs5kANV 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9f22c63b-a7c0-4a1f-9ba3-962d7a3c484f" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9f22c63b-a7c0-4a1f-9ba3-962d7a3c484f" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:43.836Z FIND Error processing validator DbvxuUhsh81y3f1NrqHEHbWA6xJfVbfY3eNTa1rFoWzQ 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9275e6a0-3acf-4f76-b113-006451744494" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9275e6a0-3acf-4f76-b113-006451744494" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:04:51.596Z FIND Error processing validator 6zQxjGdH1yfXSGCdBmxfRLx5hE4Zgh4zQE5mmb7Px2ax 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1c7ab6c6-e1fc-4cdb-b6d5-a6bf9bdc6a9e" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "1c7ab6c6-e1fc-4cdb-b6d5-a6bf9bdc6a9e" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+2024-06-05T13:04:57.429Z STAKES Found:  9  accounts for delinquent validator DBVRC4MVwVQf82G1w4q7vuJYYrp4aghci9PgZA9WUBuH
+2024-06-05T13:04:57.429Z STAKES Stake account CGPVTwghhyqsPRhaZHi4u362Ga39o2gHgqMEQXTyd2xy is de-activating:  0.057826911
+2024-06-05T13:04:57.429Z STAKES Stake account 4uPzXmvRwZTkYuh7bTFmHbeB3XiXmW1L3XGQCG661wVy is de-activating:  0.003357891
+2024-06-05T13:04:57.429Z STAKES Stake account DKUc7AW5AdRJU2UeXy4Npgbf2DKHANTzDQiqYz62AwJV is de-activating:  0.00328288
+2024-06-05T13:04:57.429Z STAKES Stake account 31FJ3YFgn5HjQnCz5PMWoTKwwTtAr85FzUHNETwnQq9P is de-activating:  0.003364136
+2024-06-05T13:04:57.429Z STAKES Stake account 94zvSwxNmegTJaKyAME7T68UEQsBmkV3ucQfZ2ZECCLD is de-activating:  2.230039825
+2024-06-05T13:04:57.430Z STAKES Stake account 9f4wBnfsAJEmgwoheJFaLEqp9i88JSuBxUCsqRF1ebfn is de-activating:  0.003316826
+2024-06-05T13:04:57.430Z STAKES Stake account AFqG84ncDPU7eSAxnQpNWJBpgiGShSaDWGFskgWQG1SD is de-activating:  0.018260335
+2024-06-05T13:04:57.430Z STAKES Stake account 6A8iziEqHajK9mubhGWzdYM5BNg2rQdkE5Nv9tsJeHmY is de-activating:  0.024009834
+2024-06-05T13:04:57.430Z STAKES Stake account FVzm3f9ncYrapG4tgJZRfXP7MKHqC2eZJYeFjfc3tVkL is de-activating:  0.003013418
+2024-06-05T13:04:57.430Z STAKES Found:  0  accounts that can be de-activated delinquent validator DBVRC4MVwVQf82G1w4q7vuJYYrp4aghci9PgZA9WUBuH
+2024-06-05T13:04:57.430Z FIND No deactivations possible for this validator
+2024-06-05T13:04:59.629Z STAKES Found:  7  accounts for delinquent validator 8sqpHTT3B8kLto6Vb98bNP93MVuRuPKdcUAwZaP6xuYs
+2024-06-05T13:04:59.629Z STAKES Stake account 3rurDH3yeF6J9XvdnX5TQwVTRboJ4wo3CCYCsHbZkj6e is de-activating:  0.003298074
+2024-06-05T13:04:59.629Z STAKES Stake account 43mPJcBNnbpaeKnoc5jGEz6jGNH7stWG1Nw87NVr5XCj is de-activating:  0.00328288
+2024-06-05T13:04:59.629Z STAKES Stake account 5DvzyQ2NqBavEkqPzVnVg4jBo5s87o2jibPMCPd8Wvv4 is de-activating:  0.003330847
+2024-06-05T13:04:59.629Z STAKES Stake account Fe8CTp8NT6QR2B6hZVRPQ1iu9zHWFeRzCkLdYg23qNGs is de-activating:  2.230029146
+2024-06-05T13:04:59.629Z STAKES Stake account GLeDbtyiDGr5kEA7eW8hsrTAyDxHP86pVu7TxsvNchbE is de-activating:  0.003357276
+2024-06-05T13:04:59.629Z STAKES Stake account GaarmM6YzxDMtTaGXDKXNyQywAfwsk48XNSRBR5SBVaQ is de-activating:  0.003317164
+2024-06-05T13:04:59.629Z STAKES Stake account 3zPvGCmHpvG8PEWqMrfMzdCMjBrtWunefYy7jGrCEdfT is de-activating:  0.003362789
+2024-06-05T13:04:59.629Z STAKES Found:  0  accounts that can be de-activated delinquent validator 8sqpHTT3B8kLto6Vb98bNP93MVuRuPKdcUAwZaP6xuYs
+2024-06-05T13:04:59.629Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:07.334Z FIND Error processing validator DeSh5nWNUkVGcuHhA7nr9Mcwa4wV9Y9kDKkNDFqzawgC 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "68e3543e-af46-4c31-ba35-0d367160597b" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "68e3543e-af46-4c31-ba35-0d367160597b" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:15.049Z FIND Error processing validator 21YUExgXBLkR2FcPzMxcPC5BdrwG5qzMjwf8BmpSCGem 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9768bca2-22c7-4fb8-83e5-899a4f7e8fa1" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9768bca2-22c7-4fb8-83e5-899a4f7e8fa1" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:22.773Z FIND Error processing validator GjEf8WA7HkUvLgoGL2AejAdDRjADy99rC6cqXWT4BqfG 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "68158f99-6a7f-4df6-92d1-64fb073b00c4" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "68158f99-6a7f-4df6-92d1-64fb073b00c4" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+2024-06-05T13:05:28.698Z STAKES Found:  7  accounts for delinquent validator EEgn6UpRjJZYntNQnEpodqZeShDeYhHDyPJccziQ3rhh
+2024-06-05T13:05:28.698Z STAKES Stake account 7NvurQ1y9ZtF4pD8hbkqrqgDtdx1DvVag6quwrUFd83V is de-activating:  0.00328288
+2024-06-05T13:05:28.698Z STAKES Stake account 9oEdR67SxJsdTruwxRWycwh9k6ee6yWzWi2uv7EbfV3v is de-activating:  0.003297196
+2024-06-05T13:05:28.699Z STAKES Stake account 5E7zGCXizQT2rM2FRqKAJprcfeZX6dEA2ozPm2P9ZKdJ is de-activating:  0.003316232
+2024-06-05T13:05:28.699Z STAKES Stake account GZk8bZoZks6gnANzM3RN3NQ2UaBAMRhy4mbv4FMUvU4F is de-activating:  0.003361442
+2024-06-05T13:05:28.699Z STAKES Stake account 3MAVVtFQYnar18iqm4u9oYkrfQ6GfdbBbFymrgB5LQxa is de-activating:  2.228448716
+2024-06-05T13:05:28.699Z STAKES Stake account EVupVjhBcTPBwDGrYZviLAPz16dQxgcNX4f7SNGrdQBT is de-activating:  0.00335658
+2024-06-05T13:05:28.699Z STAKES Stake account 6JACi7DhaGqm2u3EfHR6WW8gMwHaap8t4Xx43A9gMgoB is de-activating:  0.003329992
+2024-06-05T13:05:28.699Z STAKES Found:  0  accounts that can be de-activated delinquent validator EEgn6UpRjJZYntNQnEpodqZeShDeYhHDyPJccziQ3rhh
+2024-06-05T13:05:28.699Z FIND No deactivations possible for this validator
+2024-06-05T13:05:31.243Z STAKES Found:  5  accounts for delinquent validator BifNttkf51HzsPgUf2keDdVBL64YvnAVQGF3fkNDfB56
+2024-06-05T13:05:31.243Z STAKES Stake account 4BjXmo3QpikjNtpAuELG5AWeQj5fDHFLZC74oWP9pKXJ is de-activating:  0.003317162
+2024-06-05T13:05:31.243Z STAKES Stake account 87BCCmTNMzJMUSgmqwrcurRBYpQ8ZdGx8NqFHTMFuLsN is de-activating:  0.003357559
+2024-06-05T13:05:31.243Z STAKES Stake account h2fx4PzatWY1SRrEz3fg569u86Y9ZASwVDEcWA4XmZb is de-activating:  2.230485272
+2024-06-05T13:05:31.243Z STAKES Stake account 8HgUT5c9NdmBuj277gGzhXZ8XcmzLrU1XhjoaeJk82hm is de-activating:  0.00328288
+2024-06-05T13:05:31.243Z STAKES Stake account 2hfyb7JcstKPdVuujAy2mxSfG1PG5prReNLqibVkW1oM is de-activating:  0.003361137
+2024-06-05T13:05:31.243Z STAKES Found:  0  accounts that can be de-activated delinquent validator BifNttkf51HzsPgUf2keDdVBL64YvnAVQGF3fkNDfB56
+2024-06-05T13:05:31.243Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:38.988Z FIND Error processing validator asUJMghrds4gXDWsLoVMGiNYBxSbRSiD3zHVaNA1NBG 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "da57ab55-657f-485f-83ea-300335ed1fd8" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "da57ab55-657f-485f-83ea-300335ed1fd8" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:46.726Z FIND Error processing validator HprbPTS27zWQMqfqvuTCMCnAwmMSqXMjCaMa3HxpEMsg 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e78c421d-0438-4795-a557-5189d502bd98" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e78c421d-0438-4795-a557-5189d502bd98" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:05:54.461Z FIND Error processing validator 4ZyrfokvVoHjyUA8bewrURrgkL4ktNHj93qctJnCaJ1u 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "a0f10620-dac3-497a-8560-8d6ff4cccab5" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "a0f10620-dac3-497a-8560-8d6ff4cccab5" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+2024-06-05T13:06:00.466Z STAKES Found:  7  accounts for delinquent validator 8CrwVZYFQ1kTGXcdX1QFGqpMth1XT9SjhkhJX6LgABpL
+2024-06-05T13:06:00.466Z STAKES Stake account 7LD88Y6MdrQYbFMbjSLXLDWkziVP5FfF7T9RpahL39k2 is de-activating:  0.003361709
+2024-06-05T13:06:00.466Z STAKES Stake account 4wh1zQCW1BrECZ8nEU9XABmU6Tqgn23ChNeYk1gnTayT is de-activating:  2.227682533
+2024-06-05T13:06:00.466Z STAKES Stake account GfNTFRfB6RpiwBMHUWfb9f4urQDeFovjcsv6JHBhBHcv is de-activating:  0.00331625
+2024-06-05T13:06:00.466Z STAKES Stake account Bi8fDwpjkoKVRctnAEy4pTTjGYz7J9jqNDZhZgg3dTHS is de-activating:  0.00328288
+2024-06-05T13:06:00.467Z STAKES Stake account GwZL17vmLUrThCR92Evs8PaEccXbbjWUhu9mPPSE4r5U is de-activating:  0.003012861
+2024-06-05T13:06:00.467Z STAKES Stake account 2xzzjftiaqS9FnYjbGgWUcjsdxNfZJbdJeVA1ADSADJ4 is de-activating:  0.003297181
+2024-06-05T13:06:00.467Z STAKES Stake account 9ZiqydqR8p5dk8ZXFWz6PGZZsj4wiAGw4Sa5b8iPRq7e is de-activating:  0.003356188
+2024-06-05T13:06:00.467Z STAKES Found:  0  accounts that can be de-activated delinquent validator 8CrwVZYFQ1kTGXcdX1QFGqpMth1XT9SjhkhJX6LgABpL
+2024-06-05T13:06:00.467Z FIND No deactivations possible for this validator
+2024-06-05T13:06:04.465Z STAKES Found:  6  accounts for delinquent validator 5FDE4cGLm6boyyLvVu9DvxQqshBAb2bvjUXxyZFWcW6r
+2024-06-05T13:06:04.466Z STAKES Stake account EpmLU82wQ1Es3Cs7DxZFCnfgXeEhhopWibJgwK4dy8kD is de-activating:  0.003356434
+2024-06-05T13:06:04.466Z STAKES Stake account qe2S1q4TXZsvYx3vP6dQpX7QKqBtHfE95BZx4y8ayMw is de-activating:  2.228110042
+2024-06-05T13:06:04.466Z STAKES Stake account 8jcQ3r6J1CqthJd1cArips4qvdYKMsjXAxU3GsCWUJYY is de-activating:  0.00328288
+2024-06-05T13:06:04.466Z STAKES Stake account 573N7MbJEg1a1wAXsM7xFb2b7uXCWXg3Tq3EQ55u4k69 is de-activating:  0.003316186
+2024-06-05T13:06:04.466Z STAKES Stake account 6eGhp3EVYnhoWTLSVBzneRMo8nsLqX5iWZj6etjyDrK7 is de-activating:  0.00336193
+2024-06-05T13:06:04.466Z STAKES Stake account ACN6rGLzBSzwx9HGXLdSMnD4tb4g1HbnzvdRjb5tm8sz is de-activating:  0.003297154
+2024-06-05T13:06:04.466Z STAKES Found:  0  accounts that can be de-activated delinquent validator 5FDE4cGLm6boyyLvVu9DvxQqshBAb2bvjUXxyZFWcW6r
+2024-06-05T13:06:04.466Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:12.181Z FIND Error processing validator 26iSti8PzN59f8nzW4AcQB8ASUo6DKNC1LfJwo9kJUjN 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9fb7c847-a2ab-4e7c-b409-395d1e623cd5" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "9fb7c847-a2ab-4e7c-b409-395d1e623cd5" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:19.905Z FIND Error processing validator DHPtRabEF37ZtYZEF9sNzLarJzEPvN3Mb1SE9Lgw18am 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cdd0bdc5-606b-49a2-b6df-d613cd1ff0aa" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cdd0bdc5-606b-49a2-b6df-d613cd1ff0aa" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:27.599Z FIND Error processing validator 6DVFiYKvmPRvYjins4LtRSiEm81CswtP5yHTpgPdtrgK 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "371282bf-a4d0-4084-a1f5-44584b3908b1" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "371282bf-a4d0-4084-a1f5-44584b3908b1" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+2024-06-05T13:06:31.109Z STAKES Found:  10  accounts for delinquent validator GW7GBrnUKPhPytbnYUQsCutVgo42qbDDgvpFbHHbKfDJ
+2024-06-05T13:06:31.109Z STAKES Stake account 4Tmz8Qtay4Ct9Tsj3Ju2cFgi8mpLsKB5d9BDz9khigAj is de-activating:  0.00328288
+2024-06-05T13:06:31.109Z STAKES Stake account 5PsVnJuP1HtGvhmq4DKAEPC3JrBXR3xdMxDxuoyzJqEb is de-activated:  12.9240576
+2024-06-05T13:06:31.109Z STAKES Stake account 8GJ2RiTgF2t4UFsV3RYcjqpHWeM78rmxPoV42pb6wMgQ is de-activating:  0.00335684
+2024-06-05T13:06:31.109Z STAKES Stake account 2HLwkWDQjAGQA7V93TM7PKnLuUd9gCSFhChMAqHZfYa7 is de-activating:  0.003362136
+2024-06-05T13:06:31.109Z STAKES Stake account Hu11d7GpZyv3sKaQXaVwuJ6VSpgejqafXpntVqhEaSdm is de-activated:  71.577680273
+2024-06-05T13:06:31.109Z STAKES Stake account 3Z27NvZdasqYBKdAvDR33eivapbKrpEc4AFfqQXVuxwX is de-activating:  2.227563173
+2024-06-05T13:06:31.109Z STAKES Stake account 9Nq93WvjdotAURAX3ERAs3K4YnMFxZTTjBMWnjy6gRyJ is de-activated:  26.670901489
+2024-06-05T13:06:31.109Z STAKES Stake account 3g4oMyvbjZ8QenzvT63QcjXkUhRxGjNM9aQ38KAmvuL7 is de-activating:  0.003329405
+2024-06-05T13:06:31.109Z STAKES Stake account FFwDFfphPPkSio4k6C6WgQUyAJk66fPV33Ux5r4T1Ukp is de-activating:  0.00331533
+2024-06-05T13:06:31.109Z STAKES Stake account 3v7FKyVhtWcQ1zAtrpBeTtTqY7Mmpipazs7yKFAXGuYb is de-activated:  52.888564712
+2024-06-05T13:06:31.109Z STAKES Found:  0  accounts that can be de-activated delinquent validator GW7GBrnUKPhPytbnYUQsCutVgo42qbDDgvpFbHHbKfDJ
+2024-06-05T13:06:31.109Z FIND No deactivations possible for this validator
+2024-06-05T13:06:36.219Z STAKES Found:  30  accounts for delinquent validator LbShbQMVKBiaTrxD7GWNEsCXb4bfFuQuEBxtX3eA7CX
+2024-06-05T13:06:36.219Z STAKES Stake account Fi5Wt9RwPqx6ukU8CNM6boeh6x1hHKmd1CUFKpZEqXRJ is de-activated:  5348.90228288
+2024-06-05T13:06:36.219Z STAKES Stake account GgDqZfjFWKZsLW2PLBZcabC6Bjeud2WpRu71soJSqyhF is de-activating:  0.00328288
+2024-06-05T13:06:36.219Z STAKES Stake account 9Cq893p1JqHpNPGur12xqmA9Du1Ff3EBouRieASFN6Bp is de-activated:  1783.00228288
+2024-06-05T13:06:36.219Z STAKES Stake account 246RWLnp72uwsXe6SH2d3J6P7gSGcFzyX4BgFEXi3BKD is de-activated:  1564.50228288
+2024-06-05T13:06:36.219Z STAKES Stake account CdvkrGu69bjkpNhLvT7yB2HZAcwD4e8h5Voimyffen69 is de-activated:  0.015029333
+2024-06-05T13:06:36.219Z STAKES Stake account BmpWb2vkPp9PvJDuxt7ZaLeoAfNbCW6pWaj9Mh4FReNb is de-activated:  4138.402282879
+2024-06-05T13:06:36.219Z STAKES Stake account EhHHyw9bD59Xou3Kp2fwfKeoEgDEUxmNG3GBB8vAX3uQ is de-activated:  53488.60228288
+2024-06-05T13:06:36.219Z STAKES Stake account 6TZfErTLmpd3RohcUAeWmZNDZyxMXRY8NMFnaCCzgZYa is de-activated:  891.50228288
+2024-06-05T13:06:36.219Z STAKES Stake account 78NgAj1YW72yGNqJL1KgEN2ufcWfRZ1E1H9Pk5u6nqAh is de-activated:  5348.90228288
+2024-06-05T13:06:36.219Z STAKES Stake account 2m2xVjYkVahz957EoqYiA4Wgw5ZMQfaakk7hDoqugsjY is de-activated:  1798.50228288
+2024-06-05T13:06:36.220Z STAKES Stake account CFqsyG37ghHPSPoodAv4wdkc1DLbE1RGUfL86mQ3LNDg is de-activated:  2485
+2024-06-05T13:06:36.220Z STAKES Stake account BV3Vv6mtp2G6zK7yiXbFXmjEhne5h3UWC2cN4hmrbY2A is de-activated:  8276.802282879
+2024-06-05T13:06:36.220Z STAKES Stake account 8iSbJ6jNKAN8wakvHuoa5f6he3gz4NwT6ND2CdvssyMA is de-activated:  160.50228288
+2024-06-05T13:06:36.220Z STAKES Stake account BaBYHdmZggyk1ft5TPbpebTZdCJVJfBajdkfD63EvK9C is de-activated:  31.789669739
+2024-06-05T13:06:36.220Z STAKES Stake account CR7SgkG9BGVfCbtwcmChCkCn6Mk99VJVfm7tiv4uiVap is de-activating:  0.00329487
+2024-06-05T13:06:36.220Z STAKES Stake account 9A1STkpWuziNJERgNdYkRGjqAN6Gec3jWnEVUT44WPXk is de-activating:  0.003355287
+2024-06-05T13:06:36.220Z STAKES Stake account FDpQrEugD6ba3JW2pA8jDQAxeocQb8pfLU9oRYLP8gEn is de-activated:  12184.10228288
+2024-06-05T13:06:36.220Z STAKES Stake account 3VdLDfBDW7GpdNhWJKoCWjwXRgXtWoxZcsFyNjpG8XwJ is de-activated:  11740.30228288
+2024-06-05T13:06:36.220Z STAKES Stake account 4tKFZvET11E3FwfoLhY18pLjFK3UPnzqWqRJY9aCSbZH is de-activated:  16171.60228288
+2024-06-05T13:06:36.220Z STAKES Stake account A3pWACqQHKJiMUGcnHUPSJSx1FDigZyf4pnbS1CtZq1m is de-activated:  1783.00228288
+2024-06-05T13:06:36.220Z STAKES Stake account Cmg9zijHFxNbbbK87g1cbS8sgeHTHivTBJGDAjz6xord is de-activating:  2.224260934
+2024-06-05T13:06:36.220Z STAKES Stake account CU7Q1iwcekwBsDsQKnXabWWGY3QhtLorDxnUcvJDYA2m is de-activating:  0.003361564
+2024-06-05T13:06:36.220Z STAKES Stake account 8HseZV6i4yTgogDr2JJLuQHPQx74i8zN2FjyvXgiRBKH is de-activated:  841.60228288
+2024-06-05T13:06:36.220Z STAKES Stake account 7hKNbAFrAgwkUkvRdqSprANcxRBQ3GqeAH1TnmRHyqq is de-activated:  891.50228288
+2024-06-05T13:06:36.220Z STAKES Stake account GHnXs8kTFg7p3PT1WCCFZwhc83C7gyqzd92MxybSqyEw is de-activating:  0.003313939
+2024-06-05T13:06:36.220Z STAKES Stake account A5aup8ohKGDXU691bU5nHv2kQNdsMJ5afExHwgByfTd9 is de-activated:  1618.70228288
+2024-06-05T13:06:36.221Z STAKES Stake account G2tC2WQRGh46DejjFLDGjtchXzyqKVmyJFrHWzmDLiaC is de-activated:  5657.50228288
+2024-06-05T13:06:36.221Z STAKES Stake account H1sSutw4gx4hkw68kMwNUyUefABn81K7nTJatDW3pZfG is de-activated:  1783.00228288
+2024-06-05T13:06:36.221Z STAKES Stake account 7Eh5V5zFAtev2gdMdkBQorsfnRPTXUwpSRpEudWuyhxv is de-activated:  1864.00228288
+2024-06-05T13:06:36.221Z STAKES Stake account 9ywE5YVE8RA1R577rByaK9vr1kQEfPqa7h3M62C7eMmr is de-activated:  840.20228288
+2024-06-05T13:06:36.221Z STAKES Found:  0  accounts that can be de-activated delinquent validator LbShbQMVKBiaTrxD7GWNEsCXb4bfFuQuEBxtX3eA7CX
+2024-06-05T13:06:36.221Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:43.961Z FIND Error processing validator 5YMb9HYzBn9Mu2FxDKP9Pa6dUEcniFtwbewpGRu5EmfC 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "8cb9f545-d664-468c-9a69-7195e8c9c644" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "8cb9f545-d664-468c-9a69-7195e8c9c644" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:51.661Z FIND Error processing validator AxroSy8ubkN2pk8zbbp4Xw7fTytKdhUr5gfM6gnP3wqj 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "ac3c57b9-2d67-4633-a7d6-9726cef37574" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "ac3c57b9-2d67-4633-a7d6-9726cef37574" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:06:59.404Z FIND Error processing validator GyCgzHMj9CkfrLHJP9a7m5b2tzcRRgVYsuJ91jMb6vDv 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "51871ed7-ad15-4870-a109-3a763e16bc3a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "51871ed7-ad15-4870-a109-3a763e16bc3a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:07.075Z FIND Error processing validator J8fzX397jenCt4Hsr5roS37hrcTPgjPsqsrFS4JW3yX3 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c07e22a9-e4a7-49af-b061-c7111b78aa5a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "c07e22a9-e4a7-49af-b061-c7111b78aa5a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:14.822Z FIND Error processing validator 2zphdmQX9AYYFp52jTRzBPHYzVtqDuTWKbzJfqMu3xcL 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f8133ca4-2a2a-40c6-9a9f-ccd5c2fca7f6" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f8133ca4-2a2a-40c6-9a9f-ccd5c2fca7f6" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:22.548Z FIND Error processing validator 87BpJ19DeRVD5dYmvuLUJNwnySQ4oxiCy3872iVC5qyd 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "53b266b4-00d2-4ed1-bb5b-660a162754cf" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "53b266b4-00d2-4ed1-bb5b-660a162754cf" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:30.273Z FIND Error processing validator Bjjx7gsBv1NHz4L1tGFN9DQsUm4qF4QwiwaV4cwsz5HS 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e700a317-e54d-4e76-a522-9d0137282b05" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e700a317-e54d-4e76-a522-9d0137282b05" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:38.000Z FIND Error processing validator HRm1f8FXW7MuMYWXegZxXqQ28v2kG2aFnfyxa99R9Stb 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "fe4c7e91-3d0c-4cf4-b8c2-fd73ee56cc7e" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "fe4c7e91-3d0c-4cf4-b8c2-fd73ee56cc7e" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:45.768Z FIND Error processing validator 8uCsxn1eLY4jC7FEJK9gnBhtMafVziDtVKtuisLJFD7t 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "8f6f6e95-8ea8-4ef9-acde-9889ce3116c7" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "8f6f6e95-8ea8-4ef9-acde-9889ce3116c7" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:07:53.514Z FIND Error processing validator 9JhuWvxaw8S1dHA5TjoeVkxiJ2PHEdUBQAhXZdjkfU8 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7237fa21-6de4-4218-863f-1e5831e9ca64" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7237fa21-6de4-4218-863f-1e5831e9ca64" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:01.259Z FIND Error processing validator HQotcnK69tWMFixZYQibYQ5rVPV7H8Mw2VxdMBVG6eyP 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "27864dc4-2039-46b7-8266-691ee0c8cb13" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "27864dc4-2039-46b7-8266-691ee0c8cb13" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:09.022Z FIND Error processing validator 491AojvAJnRFsXMmhpxebFinaAUwC9h31DREX429ggWs 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "2379b49b-14f8-45e4-88df-b2cf764cffe6" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "2379b49b-14f8-45e4-88df-b2cf764cffe6" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:16.763Z FIND Error processing validator EzLBurdF42av6P8rXPokkei1kKiKXQ7us3yNNX9qtc7E 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b76faaa8-d055-4b28-9ba5-7f87bcebf0c0" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b76faaa8-d055-4b28-9ba5-7f87bcebf0c0" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:24.500Z FIND Error processing validator 42eXr1dA6tbrYHkXji6EQqHdZt5gzfLss9X6JNiuPov3 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cb2d7f71-4784-4c81-9be4-6f2507b9dd0c" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "cb2d7f71-4784-4c81-9be4-6f2507b9dd0c" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:32.241Z FIND Error processing validator CHUF69YeA3gZv484izYuhKk1EjaJYjv1pNoJJ6QeFDQc 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "3a3ac663-914e-41ec-b916-6c8d2d308176" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "3a3ac663-914e-41ec-b916-6c8d2d308176" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:39.981Z FIND Error processing validator 96EryGQVdnmAQNNzKnr6gfCVFzVwhC7w5kXrGRHLBrVj 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "49567aba-a973-4237-bd2d-1c23660e1f95" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "49567aba-a973-4237-bd2d-1c23660e1f95" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:47.687Z FIND Error processing validator J4ooR8AV8o5Ez2qN8ghQhR7YKhqRY5WEHfE8dTR2Yo6a 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "87ee4ca7-5489-4381-866a-41aaf5c8825a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "87ee4ca7-5489-4381-866a-41aaf5c8825a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:08:55.379Z FIND Error processing validator GkvRidefgyGFpEfNqdnfXMX3PgAWkGPdSDhKNKgRn6jU 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "5cd2181a-18fc-4233-926c-be5906e906da" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "5cd2181a-18fc-4233-926c-be5906e906da" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:06.933Z STAKES Found:  6  accounts for delinquent validator EvWbwUJhBKYmbV3gnLBCr55NeJ585JuRU8Aos7u9jiHz
+2024-06-05T13:09:06.933Z STAKES Stake account 9rhkbTF4G7pZwde5bXHHGjAaqySY4tX6b64qvzTfngEU is de-activating:  0.003346077
+2024-06-05T13:09:06.934Z STAKES Stake account 3hYjhiT4CHTXWVN5KsWjW5FjHXrpMGkCkd7rSddwpd6R is de-activating:  2.219747324
+2024-06-05T13:09:06.934Z STAKES Stake account Fm19VPh1VhWNaHsNPKquHtccKf1shSCmX4Ho1HWGwsMu is de-activated:  106.333282181
+2024-06-05T13:09:06.934Z STAKES Stake account ChbdjRULZHK4LA1iV7KGp9Hp4kQgwxKEvxTueSsWDPQp is de-activating:  0.003311951
+2024-06-05T13:09:06.934Z STAKES Stake account AqMzoGjAYPWaJn1AYbPndsFGnjxzkHMG5PYn3K7Wg8JW is de-activating:  0.003346077
+2024-06-05T13:09:06.934Z STAKES Stake account HpqFyk4NKuK4kxpVne8badT1i2qfLMhHsfnW65jFJY2S is de-activating:  0.00328288
+2024-06-05T13:09:06.934Z STAKES Found:  0  accounts that can be de-activated delinquent validator EvWbwUJhBKYmbV3gnLBCr55NeJ585JuRU8Aos7u9jiHz
+2024-06-05T13:09:06.934Z FIND No deactivations possible for this validator
+2024-06-05T13:09:09.408Z STAKES Found:  8  accounts for delinquent validator 2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8
+2024-06-05T13:09:09.408Z STAKES Stake account 58qS83jB2tV1ziVtz5iCYewmmWgC1A3KGVUEBRhS9tF6 is de-activating:  0.003352835
+2024-06-05T13:09:09.408Z STAKES Stake account 4yuEy43R2kMWda4FrrAwmqKpiSiZ2JcoBXTo3s4SB8kM is de-activating:  2.219169045
+2024-06-05T13:09:09.408Z STAKES Stake account Cgj5VnzU4Wfc1L2ZNRjhfFgL3HvhUrCPMQ3Su9TAs4ah is de-activating:  0.00328288
+2024-06-05T13:09:09.408Z STAKES Stake account Ct6yDcMetqkz1Vf2qx2E24ybujxeL3XhjF5XADbnDKkG is de-activating:  0.003311433
+2024-06-05T13:09:09.408Z STAKES Stake account 3xuNKYHqWsVwRQKdQs5rucP5mee28mswUYgKixC88ZJ9 is de-activating:  0.00335906
+2024-06-05T13:09:09.408Z STAKES Stake account HvMsDTNyLEyhoKf6TUX5him84dAYZ8Z97Qgiu3cpSjUL is de-activated:  28.795857202
+2024-06-05T13:09:09.409Z STAKES Stake account 58Td7E2nQaGbj1sduTY5zm1S1csQvm9wfFzGe4bTXdj3 is de-activated:  25.840299734
+2024-06-05T13:09:09.409Z STAKES Stake account BJPAJKLGhDQ6nFwPgQ7R5i8tYMXfVmqKJvgEKJnDDSwz is de-activated:  62.708834569
+2024-06-05T13:09:09.409Z STAKES Found:  0  accounts that can be de-activated delinquent validator 2nj17ZX4Mwj9yFx7ATBzhN7RzVQfWiSjCdMeeH6NBXe8
+2024-06-05T13:09:09.409Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:17.122Z FIND Error processing validator DvZTUfs7hmaZ5DEx7nFSS6uhM4vZsgSswLkdSDybKk2J 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "298949cb-9fa0-4c25-aecc-388f8f34a17a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "298949cb-9fa0-4c25-aecc-388f8f34a17a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:24.814Z FIND Error processing validator Eyguy5v25fonYVzPPpQ4fTGFjxkSmQzcHz5X24d8VpVQ 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e4846d91-b9dc-4727-aafa-02ac5e3da01a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "e4846d91-b9dc-4727-aafa-02ac5e3da01a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:32.545Z FIND Error processing validator 9CquYfmEAUs6FsrLP14DxcyryehchkfTKeQ2Fbg1HraN 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "708dbea2-ac76-4ec3-9ab6-37e90611d222" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "708dbea2-ac76-4ec3-9ab6-37e90611d222" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:40.287Z FIND Error processing validator 8zCJw6dETsPGCCkre459fDoM4YjK6BCVqqfSyyhRXtaT 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f8211cf0-6b52-4d5c-84e8-589f248c77a5" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f8211cf0-6b52-4d5c-84e8-589f248c77a5" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:48.009Z FIND Error processing validator Gj2KGF52hL7JzqeWAXVXK3HfnHqNC2pJdkbQbe2nhNML 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "524b999c-08e1-438d-95cc-f480889ae855" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "524b999c-08e1-438d-95cc-f480889ae855" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:09:55.748Z FIND Error processing validator FhBAYPKiJbo9ZxmKhTxtuKtL7hLzSRsb7R4mkRn2W3kQ 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f326277b-1ad5-4505-9e4f-956a6867c099" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f326277b-1ad5-4505-9e4f-956a6867c099" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:07.814Z STAKES Found:  6  accounts for delinquent validator 52HBJgFBWwMSk6maAqMshgc1iniQKrRiTgXsQCCT66XA
+2024-06-05T13:10:07.814Z STAKES Stake account 4wkL7a4Ar3tYe6SnxwQQBzQ4eX2m72gvBtpWz6PiZiKh is de-activating:  2.216422801
+2024-06-05T13:10:07.815Z STAKES Stake account CuQ9vDT9qbCa8mD1DByAFvtfcBNNSv6RP2hcpo5XMjQq is de-activating:  0.00328288
+2024-06-05T13:10:07.815Z STAKES Stake account J41n4pCo7upc23sr9UDCUPL14FRy27aYLzfQriopwzrH is de-activating:  0.003309858
+2024-06-05T13:10:07.815Z STAKES Stake account AKzHyQrZDj2fKwhfZEW9GR2Yvqm4CoNhHK6enEq2LKSr is de-activating:  0.003351137
+2024-06-05T13:10:07.815Z STAKES Stake account 6ZCD2kru7brGx6VPuXZ7mHJWtjPd2hq6vP51Ka8R2c5g is de-activating:  0.003008541
+2024-06-05T13:10:07.815Z STAKES Stake account BEesX1XwHoSa3yZLAF3YKDGLPkFvU8fWKas5QbFfmKZg is de-activating:  0.003356571
+2024-06-05T13:10:07.815Z STAKES Found:  0  accounts that can be de-activated delinquent validator 52HBJgFBWwMSk6maAqMshgc1iniQKrRiTgXsQCCT66XA
+2024-06-05T13:10:07.815Z FIND No deactivations possible for this validator
+2024-06-05T13:10:10.656Z STAKES Found:  7  accounts for delinquent validator 2i2KSzEpyQPzWJ3aqNPyspQ9hWqw36FmbUEoov17cpeA
+2024-06-05T13:10:10.656Z STAKES Stake account AjejfKBny6F4fKQT44H4JnC3GhTDb6Y1o3am2FjCVEK5 is de-activated:  105.175345739
+2024-06-05T13:10:10.656Z STAKES Stake account 5RU1bp1ZghFKia3EYDNpqSQoYNgFKZmFR4GXuCxCZtXg is de-activating:  0.003336618
+2024-06-05T13:10:10.656Z STAKES Stake account 4kAkZbWVmEwE3fdBsDADLwc2aeLFU2gDZzBy9mzqg7As is de-activating:  2.215015103
+2024-06-05T13:10:10.656Z STAKES Stake account 2yQkUKJcPxU4BZ8a3wnQveuNGN9pMLHojMXkYucXPe2u is de-activating:  0.003290513
+2024-06-05T13:10:10.656Z STAKES Stake account FABw1sgSSM8ED6zMaheXHWK5b5WJz4wT2swfiG1QMmH5 is de-activating:  0.00328288
+2024-06-05T13:10:10.656Z STAKES Stake account DPqTCC4nwwpu8YadMgCEZ1iQ3mcKLKLDewhoKGAmTQ76 is de-activating:  0.003309488
+2024-06-05T13:10:10.656Z STAKES Stake account jm1u3g1h2uHpwQ77s55rCheBGjR92tjT6nRjSM4ShVT is de-activating:  0.003336854
+2024-06-05T13:10:10.656Z STAKES Found:  0  accounts that can be de-activated delinquent validator 2i2KSzEpyQPzWJ3aqNPyspQ9hWqw36FmbUEoov17cpeA
+2024-06-05T13:10:10.656Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:18.369Z FIND Error processing validator CqZt8CTQfNVH6SYWp1HdWXoBhkFqdT8nEFbSM5bB5hvN 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "172ac4ba-fdcc-4f80-9e39-b56dc9372e9f" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "172ac4ba-fdcc-4f80-9e39-b56dc9372e9f" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:26.083Z FIND Error processing validator CpVnQK5wKrWuRkMDssp4bqihtbUKfJwGTZAsWB5SymaY 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b5b690e1-45bc-4ab2-b9f8-7e6cad160fa7" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b5b690e1-45bc-4ab2-b9f8-7e6cad160fa7" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:36.761Z STAKES Found:  8  accounts for delinquent validator 4TPBarwgZuuztwD7biHtt87L2BTmH4KjcePABijDeiyW
+2024-06-05T13:10:36.761Z STAKES Stake account 7h1jKKhtbVjoDwHzxV84xLpEwptdBiVT6HNp81JPydgM is de-activating:  0.00328288
+2024-06-05T13:10:36.761Z STAKES Stake account HywXxb4nUkk5ekMJvyuhYBzeCfQg9iJiR6Awmjg2v9h7 is de-activated:  47.130630666
+2024-06-05T13:10:36.762Z STAKES Stake account 7Ht32q2Lt1qVsjv3LCtxXJvKmrmWPVqceW73Tt1U7GcT is de-activated:  65.232037183
+2024-06-05T13:10:36.762Z STAKES Stake account 5p9ka3EiE61BF9spbmmiuWyyujtCe8nuQscSPUfid1KC is de-activating:  0.003291351
+2024-06-05T13:10:36.762Z STAKES Stake account GFCW9QrFuBY1JxknLkxuJ8txcitC1YNAqpR7mvp6aJVX is de-activating:  0.003356433
+2024-06-05T13:10:36.762Z STAKES Stake account 4bVgp5nWMUHfr2LLiUWZ6TLkuKBZy4PEnuSkkQDWA8P2 is de-activating:  0.003350708
+2024-06-05T13:10:36.762Z STAKES Stake account CsDhcbYqVJxNvJErZZGgfcqhr8UA855tCjRV6XZEhqTZ is de-activating:  0.003310312
+2024-06-05T13:10:36.762Z STAKES Stake account CGa42ChCw5LFGmDbD3csdadMHU9Yw2SjVk1jCtqciHXq is de-activating:  2.214741706
+2024-06-05T13:10:36.762Z STAKES Found:  0  accounts that can be de-activated delinquent validator 4TPBarwgZuuztwD7biHtt87L2BTmH4KjcePABijDeiyW
+2024-06-05T13:10:36.762Z FIND No deactivations possible for this validator
+2024-06-05T13:10:39.137Z STAKES Found:  7  accounts for delinquent validator Egu7ue8R5C9aCMNAhy6fLS1mytChw1sjdWCWFn8WmyLK
+2024-06-05T13:10:39.137Z STAKES Stake account Bda2HbTgTj8QKcBCPzzQ4C8KQt38LrqTpEJy8Kc9kMcz is de-activating:  0.00334112
+2024-06-05T13:10:39.137Z STAKES Stake account CPnyt3fqZ9KSuRn3Lq75QnYN4zUw4sM4fmEvBDakNu1w is de-activating:  0.003290501
+2024-06-05T13:10:39.137Z STAKES Stake account JD4SFUuQx1yvJNFu9jm2Aai7mEP4zmnmxBLErZLnuXhi is de-activating:  0.00328288
+2024-06-05T13:10:39.137Z STAKES Stake account 4GMe7DBr8bpiaG7CHLBoDCcFFmmAepemXKJK7it74qfG is de-activating:  2.214763109
+2024-06-05T13:10:39.138Z STAKES Stake account 5ktV9cn6fWJ1cCcYnQ5mN6khNDBchZ2HnE4XyuqkUqV7 is de-activating:  0.003309448
+2024-06-05T13:10:39.138Z STAKES Stake account 9cRAVmUNgt3D65te2Pv22mFZpmVm2be6ircrBot3Zojo is de-activating:  0.003340672
+2024-06-05T13:10:39.138Z STAKES Stake account 7jV2zm4Ry5K4jAw6s5k1XMGT8JMySKggkowS8ekbsVBr is de-activated:  105.701186725
+2024-06-05T13:10:39.138Z STAKES Found:  0  accounts that can be de-activated delinquent validator Egu7ue8R5C9aCMNAhy6fLS1mytChw1sjdWCWFn8WmyLK
+2024-06-05T13:10:39.138Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:46.826Z FIND Error processing validator Cr7E4XnUnKgRasGdUTrY9NXgmTxJj7mDYa6r3m591itF 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f23ac2d8-4de7-4844-a2ae-8be86fae012d" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f23ac2d8-4de7-4844-a2ae-8be86fae012d" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:10:54.537Z FIND Error processing validator DGgC3QYQsoPZiZgjWiMfsi59CrmSdQuvUF6orW4A34RB 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "59b95535-d70d-4880-864c-b4dc629548ca" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "59b95535-d70d-4880-864c-b4dc629548ca" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:02.273Z FIND Error processing validator irVai3HewJyN1WJmBNVcTGEDZBMAMUmpvMcXuU94Mbc 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f6826c57-6a31-45b0-b71e-eed798cfea3b" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f6826c57-6a31-45b0-b71e-eed798cfea3b" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+2024-06-05T13:11:07.271Z STAKES Found:  5  accounts for delinquent validator 9xrkErFEcs4WU75jQQtGEJfV4ePUEyGF2PU4b94BNy1i
+2024-06-05T13:11:07.271Z STAKES Stake account Amqbi8ehv4q3YKDss7YzJPbBCABBktpQrUtbKyMyHrZv is de-activating:  0.003308633
+2024-06-05T13:11:07.271Z STAKES Stake account 8DWpCxw5EoxWCr4N4WmrZTySyF9sYg67ptJZcFmqZEYa is de-activating:  2.213143708
+2024-06-05T13:11:07.271Z STAKES Stake account HyMaFWPf1cwCL16AJRrZNsynTussiEJ8oULVCZzkwqZw is de-activating:  0.003349697
+2024-06-05T13:11:07.272Z STAKES Stake account BoxHNcQBRNkcB8RgCwPvLhe9DmnziVJNEcRJWfSEC7tc is de-activating:  0.003355218
+2024-06-05T13:11:07.272Z STAKES Stake account 7c31jvZw1N7d9TGgd5fKigcg6HaBJPZKiMfBg3ZCcmoW is de-activating:  0.00328288
+2024-06-05T13:11:07.272Z STAKES Found:  0  accounts that can be de-activated delinquent validator 9xrkErFEcs4WU75jQQtGEJfV4ePUEyGF2PU4b94BNy1i
+2024-06-05T13:11:07.272Z FIND No deactivations possible for this validator
+2024-06-05T13:11:09.726Z STAKES Found:  6  accounts for delinquent validator 5HedSkUKfYmusiV7rAppuHbz7fp8JmUoLLJjJqCQLS5j
+2024-06-05T13:11:09.726Z STAKES Stake account 73mkeCUhJCo3TCHWEW1WhXvpyGHa4nXN6JPpoQdTmcYt is de-activating:  0.003290356
+2024-06-05T13:11:09.726Z STAKES Stake account 4aXX56igM17hdscypftYf5CT3DzUjdPir8BPrhp8ygqn is de-activating:  0.003353987
+2024-06-05T13:11:09.726Z STAKES Stake account FNTkaaumW24vbbQbDz4wmMj5u9C1LsejvMbWkdJKNCzG is de-activating:  0.003308714
+2024-06-05T13:11:09.726Z STAKES Stake account C6VSqQ37oxoGWVk1Gu1u2fe5euxdYSg38qZFj4ryHrxX is de-activating:  0.003348783
+2024-06-05T13:11:09.726Z STAKES Stake account GTxMADxmaJWwq3VTMKp6S9ysYmKdaNBx4ugW4XXWB5rT is de-activating:  2.212405645
+2024-06-05T13:11:09.727Z STAKES Stake account 9DPHMJmFpuwL5aPGqYU2PQwKvpPQdu4ku7zZy8xT4qqi is de-activating:  0.00328288
+2024-06-05T13:11:09.727Z STAKES Found:  0  accounts that can be de-activated delinquent validator 5HedSkUKfYmusiV7rAppuHbz7fp8JmUoLLJjJqCQLS5j
+2024-06-05T13:11:09.727Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:17.430Z FIND Error processing validator 7xSQKGWBwASNFVzBHyJnS1Vivhu5Ha6m14RfkToYPEyx 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "da10ddca-7007-44bc-b998-bdaf2d52f962" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "da10ddca-7007-44bc-b998-bdaf2d52f962" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:25.186Z FIND Error processing validator 5kJituZ6Jg99XUT2CQP4GRgCmhJqF1DVbZcYk6aAHdTx 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7a934152-186f-47c5-8e58-432f9af1b989" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "7a934152-186f-47c5-8e58-432f9af1b989" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:32.883Z FIND Error processing validator Ap9QwurB2Jvj7uuFjyXsdWaRryFJQFdNttHZ9TB3W2bV 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f83fe911-86e3-4b0e-9341-f667fdcc50ab" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "f83fe911-86e3-4b0e-9341-f667fdcc50ab" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+2024-06-05T13:11:37.287Z STAKES Found:  6  accounts for delinquent validator 6JwTC7k6yEsGnoVrfN2PjcwMhNLEFAJBrFdo1ygYY3MM
+2024-06-05T13:11:37.287Z STAKES Stake account 4NaJfBTAtdwakstK6DVXpdChxKDMF9SJChgH4bUq35H5 is de-activating:  0.003350053
+2024-06-05T13:11:37.287Z STAKES Stake account 3f4NDnn7TvGDmMb12sxEeyNnDXgwNeMdhUCP8i6keheo is de-activating:  0.00328288
+2024-06-05T13:11:37.287Z STAKES Stake account 3NAN4L5UZxJxhZR6xzcyKQqYmiMP9dEUdPe2dCyFWDoW is de-activating:  0.003307193
+2024-06-05T13:11:37.287Z STAKES Stake account 9SzNorp3su9HghgwURzuzw7uUMMYqtXaEqMkhyG9LhdJ is de-activating:  0.003345553
+2024-06-05T13:11:37.287Z STAKES Stake account FsDgeEdJDhCQcYNCF8MqsCC583e1r9Nw2opJXhBwZc5h is de-activating:  0.003288504
+2024-06-05T13:11:37.287Z STAKES Stake account F9B7527CHUMdXcYpUX6Ng8qJqnfrfLGB6sCzkDWWNa1d is de-activating:  2.20846248
+2024-06-05T13:11:37.287Z STAKES Found:  0  accounts that can be de-activated delinquent validator 6JwTC7k6yEsGnoVrfN2PjcwMhNLEFAJBrFdo1ygYY3MM
+2024-06-05T13:11:37.287Z FIND No deactivations possible for this validator
+2024-06-05T13:11:39.718Z STAKES Found:  5  accounts for delinquent validator BLU4mrxkURvru5YHt4TzQu2qNFDU8PPGU3frSUxn4Zj9
+2024-06-05T13:11:39.718Z STAKES Stake account HFPMV4bbNm9MbagRudzAGeK8pKRwkeYN5R64u9QhWSUw is de-activating:  0.003343771
+2024-06-05T13:11:39.718Z STAKES Stake account H8oQoMGLbJugRzb4hPZJXXqpDUnTBf9kEsUEnQcf2mw6 is de-activating:  2.204035877
+2024-06-05T13:11:39.718Z STAKES Stake account G3Nshphz2rureFMa21NYuU4TxGYDFRNUGVLpzpnPqaCn is de-activating:  0.003304953
+2024-06-05T13:11:39.718Z STAKES Stake account AybxT3sde3ZvyEjQFfEJw7TumNNb2unkNCbQQ1YRRpu7 is de-activating:  0.003346002
+2024-06-05T13:11:39.719Z STAKES Stake account 9FwUjDBSrmgmucBce3PJCg8PhZvv7KkR6TzpJUnrV4PD is de-activating:  0.00328288
+2024-06-05T13:11:39.719Z STAKES Found:  0  accounts that can be de-activated delinquent validator BLU4mrxkURvru5YHt4TzQu2qNFDU8PPGU3frSUxn4Zj9
+2024-06-05T13:11:39.719Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:47.400Z FIND Error processing validator 9pxdYafUaYcQxCFau9CigKPANoTdL88tGC5hxhAvW5CP 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "63684e67-38e7-45e0-b051-b7f34cc0810f" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "63684e67-38e7-45e0-b051-b7f34cc0810f" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:11:55.120Z FIND Error processing validator Gm2aDA6uG4joKCtkjwjph2sKSxWrtszgeUZ9VYCzVZx5 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "6a51c13a-78a2-42eb-940d-79428759992e" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "6a51c13a-78a2-42eb-940d-79428759992e" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2024-06-05T13:12:02.836Z FIND Error processing validator FVEkc1o2EvMBafK6YcL3w9ebucdxuaaaA8VGq1NBNJ7e 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b96b341e-87d5-4ce3-b5bc-63f3087f9acc" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call, contact your app developer or support@rpcpool.com."}, "id": "b96b341e-87d5-4ce3-b5bc-63f3087f9acc" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-06-05T13:12:02.836Z FIND Total de-activated: 107.852961088
