@@ -1,0 +1,3 @@
+bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+2024-07-17T15:59:04.966Z FIND Found epoch range to explore:  639 643
+2024-07-17T15:59:04.968Z FIND No validators match the delinquency criteria
