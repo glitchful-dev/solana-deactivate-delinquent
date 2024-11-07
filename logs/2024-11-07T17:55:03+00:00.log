@@ -1,0 +1,25 @@
+2024-11-07T17:55:15.837Z FIND Found epoch range to explore:  690 694
+2024-11-07T17:55:15.840Z FIND Found delinquent validators [
+  'FdD4CP38NUZf2e1dN6tLw5Q4iU2cb438v1eGcQy5x3nQ',
+  'DddVkhKnG7BibKCHHdFj7LirNiX6Eu5FDwY3y4LzpcgJ'
+]
+2024-11-07T17:55:15.841Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2024-11-07T17:55:16.116Z STAKES Found:  7  accounts for delinquent validator FdD4CP38NUZf2e1dN6tLw5Q4iU2cb438v1eGcQy5x3nQ
+2024-11-07T17:55:16.117Z STAKES Stake account BmYQc4mfQW5nSXmVZK7JTWK7jT4JmmemdQ8qfARgjmxc is de-activating:  0.003383776
+2024-11-07T17:55:16.117Z STAKES Stake account CguBBb9WAcCxiymkSjkqQyVZprXFeLt3wxHNmG5XtW7q is de-activating:  0.003301455
+2024-11-07T17:55:16.117Z STAKES Stake account 3vBJqZz6Bgr8xzfBhij7DsbDH6y3SGcLfri4SeLDfbaU is de-activating:  2.287546156
+2024-11-07T17:55:16.117Z STAKES Stake account 4iTaJzMQ5VZkz3mFmd7YdYyCMQirwoftC5BGbthKLWLU is de-activating:  0.003327606
+2024-11-07T17:55:16.118Z STAKES Stake account 5U4HcAfFBd9FPiCUrDAymdr4j6yhDnbh3G74ecbGmPUq is de-activating:  0.003387936
+2024-11-07T17:55:16.118Z STAKES Stake account 5w86N6Zy7qr5Pn66wBmKNNCcmCzVeoaUEtbDhDcMiEfm is de-activating:  0.003345614
+2024-11-07T17:55:16.118Z STAKES Stake account 9DGPms2sqLHr9VuWoQb8jnLQ55niWknZXi44josu9ehe is de-activating:  101.005385025
+2024-11-07T17:55:16.118Z STAKES Found:  0  accounts that can be de-activated delinquent validator FdD4CP38NUZf2e1dN6tLw5Q4iU2cb438v1eGcQy5x3nQ
+2024-11-07T17:55:16.118Z FIND No deactivations possible for this validator
+2024-11-07T17:55:16.191Z STAKES Found:  1  accounts for delinquent validator DddVkhKnG7BibKCHHdFj7LirNiX6Eu5FDwY3y4LzpcgJ
+2024-11-07T17:55:16.192Z STAKES Stake account 8QCy7fdFRwQLVDvg29VTNCceA5VxSbZmaHMQFZU1njZA is activated:  0.002282881
+2024-11-07T17:55:16.192Z STAKES Found:  1  accounts that can be de-activated delinquent validator DddVkhKnG7BibKCHHdFj7LirNiX6Eu5FDwY3y4LzpcgJ
+2024-11-07T17:55:16.262Z DEACTIVATE Blockhash: EdAfdWYGXhNGKPUJXu8gCPGHui9g5Qn8ajay9AxDZNF4
+2024-11-07T17:55:16.339Z DEACTIVATE Sent tx: TcCKLQTXrhrXYrkZxd1hrkykC7aAiEhKwdq7byjqwGKQDmXGMbYL1mMzoR3778QiLeCdo3CEWxAjaq9hZjau7tv https://explorer.solana.com/tx/TcCKLQTXrhrXYrkZxd1hrkykC7aAiEhKwdq7byjqwGKQDmXGMbYL1mMzoR3778QiLeCdo3CEWxAjaq9hZjau7tv
+2024-11-07T17:55:16.444Z DEACTIVATE Waiting for confirmations...
+2024-11-07T17:55:37.206Z DEACTIVATE Confirmed.
+2024-11-07T17:55:37.206Z FIND Deactivated stake accounts with total balance:
+2024-11-07T17:55:37.207Z FIND Total de-activated: 0.002282881
