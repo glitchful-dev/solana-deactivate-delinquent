@@ -1,0 +1,56 @@
+2024-11-28T13:54:56.018Z FIND Found epoch range to explore:  700 704
+2024-11-28T13:54:56.021Z FIND Found delinquent validators [
+  'vCLwKDp6hSCWQgQ7yVyx8vhbW4zQgrZ2btWfqvtw6ic',
+  'DgwPAWnDbZzuEM2FptaJoTEnUp4Uc22Uv3dxE562fr37',
+  'C58XG1LGp8guF9M6yYxwNuxAet5R4YCEYG71NsViJJ93',
+  'GQcQo83ERtkrqfTmjb2HiYnBdNmXBr95z1nGSgZd5ujY',
+  '52YQr3Je2C1BJMFc4AxydsT4tad3J9ZVHFDHPNMJznE5'
+]
+2024-11-28T13:54:56.022Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2024-11-28T13:54:59.627Z STAKES Found:  6  accounts for delinquent validator vCLwKDp6hSCWQgQ7yVyx8vhbW4zQgrZ2btWfqvtw6ic
+2024-11-28T13:54:59.628Z STAKES Stake account CCf5aqQAz5SED5kg1UgZnsHoaeQx1yQyYw89UrwbL6fn is de-activating:  2.599469771
+2024-11-28T13:54:59.628Z STAKES Stake account AMGahu4fZF8MPJR9kPR1CBXkH3GUqJpPrw7hZY6Dy254 is de-activating:  0.003288892
+2024-11-28T13:54:59.628Z STAKES Stake account 3YdPUnPK6sNF64avNRN6pEyADBsBeZa3aEdCY7dAwgiG is de-activating:  0.003314604
+2024-11-28T13:54:59.628Z STAKES Stake account 2mSmGvneNdm1Nk2d1hVKfBzk77ZEKsKSUXkDZuYNoqVD is de-activated:  2.529866407
+2024-11-28T13:54:59.628Z STAKES Stake account 41e5ULhAeJNi8G8AYddQ65gD9vP2y2auf1eTq51zhd3R is de-activating:  25.846505816
+2024-11-28T13:54:59.628Z STAKES Stake account 5ivcopaKCQQdyDjUtdTNZmcKg4fQKhPYZUNxjN1txQSr is de-activating:  0.003284021
+2024-11-28T13:54:59.629Z STAKES Found:  0  accounts that can be de-activated delinquent validator vCLwKDp6hSCWQgQ7yVyx8vhbW4zQgrZ2btWfqvtw6ic
+2024-11-28T13:54:59.629Z FIND No deactivations possible for this validator
+2024-11-28T13:55:03.879Z STAKES Found:  1  accounts for delinquent validator DgwPAWnDbZzuEM2FptaJoTEnUp4Uc22Uv3dxE562fr37
+2024-11-28T13:55:03.879Z STAKES Stake account jxPUaDaN96oihS4UpYwDgAMZidFXKEKHwYt947nqvwm is activated:  2.050000299
+2024-11-28T13:55:03.880Z STAKES Found:  1  accounts that can be de-activated delinquent validator DgwPAWnDbZzuEM2FptaJoTEnUp4Uc22Uv3dxE562fr37
+2024-11-28T13:55:03.908Z DEACTIVATE Blockhash: CEbQd8ub4g3Cf2zGdF8J3qSTPC4HNmeGNhBYsZpZBvc8
+2024-11-28T13:55:03.941Z DEACTIVATE Sent tx: 26wgrsHPxLUqWsqGZ87YgA857Pg5ncGNi6Hnmg4DDgabaKJ1X7kTNwDg6Dof6wvgQU8VBSjmoZwktBSwZA2uUFjo https://explorer.solana.com/tx/26wgrsHPxLUqWsqGZ87YgA857Pg5ncGNi6Hnmg4DDgabaKJ1X7kTNwDg6Dof6wvgQU8VBSjmoZwktBSwZA2uUFjo
+2024-11-28T13:55:04.045Z DEACTIVATE Waiting for confirmations...
+2024-11-28T13:55:22.921Z DEACTIVATE Confirmed.
+2024-11-28T13:55:22.921Z FIND Deactivated stake accounts with total balance:
+2024-11-28T13:55:25.643Z STAKES Found:  1  accounts for delinquent validator C58XG1LGp8guF9M6yYxwNuxAet5R4YCEYG71NsViJJ93
+2024-11-28T13:55:25.643Z STAKES Stake account FnZhMZZH9DjDm5ojDW2zvX1gxfPYsn2uAiKMyJXW7bUK is activated:  2.050000199
+2024-11-28T13:55:25.643Z STAKES Found:  1  accounts that can be de-activated delinquent validator C58XG1LGp8guF9M6yYxwNuxAet5R4YCEYG71NsViJJ93
+2024-11-28T13:55:25.672Z DEACTIVATE Blockhash: 4S3xJs3m4B9CEMGbdqpwZPVwYFAXEr9HVG4pha3nXBdc
+2024-11-28T13:55:25.704Z FIND Error processing validator C58XG1LGp8guF9M6yYxwNuxAet5R4YCEYG71NsViJJ93 failed to send transaction: Transaction simulation failed: Blockhash not found SendTransactionError: failed to send transaction: Transaction simulation failed: Blockhash not found
+    at Connection.sendEncodedTransaction (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:9560:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Connection.sendRawTransaction (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:9526:20)
+    at async Connection.sendTransaction (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:9482:14)
+    at async deactivateDelinquentAccounts (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/index.js:153:27)
+    at async unstakeDelinquents (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/index.js:190:21) {
+  logs: []
+}
+2024-11-28T13:55:28.621Z STAKES Found:  1  accounts for delinquent validator GQcQo83ERtkrqfTmjb2HiYnBdNmXBr95z1nGSgZd5ujY
+2024-11-28T13:55:28.621Z STAKES Stake account 2XqpNB47TciaR3BbARvt2vtLcGYfCG1qJ9naC2KTZ7xL is activated:  2.050000199
+2024-11-28T13:55:28.621Z STAKES Found:  1  accounts that can be de-activated delinquent validator GQcQo83ERtkrqfTmjb2HiYnBdNmXBr95z1nGSgZd5ujY
+2024-11-28T13:55:28.649Z DEACTIVATE Blockhash: 9L6vrpuPaWKiMWzL1qiLneFG98xXcbnJ6WrtWr1owQdf
+2024-11-28T13:55:28.680Z DEACTIVATE Sent tx: C4Wz6wGiT7TNvf3sCMjwxdsbj6tHpx4N7A75bULYZrQ88BTgXH6PyDXHMDBPM2WRq7ckJqeuvFwkeVh5AHknQDQ https://explorer.solana.com/tx/C4Wz6wGiT7TNvf3sCMjwxdsbj6tHpx4N7A75bULYZrQ88BTgXH6PyDXHMDBPM2WRq7ckJqeuvFwkeVh5AHknQDQ
+2024-11-28T13:55:28.782Z DEACTIVATE Waiting for confirmations...
+2024-11-28T13:55:44.019Z DEACTIVATE Confirmed.
+2024-11-28T13:55:44.019Z FIND Deactivated stake accounts with total balance:
+2024-11-28T13:55:47.094Z STAKES Found:  5  accounts for delinquent validator 52YQr3Je2C1BJMFc4AxydsT4tad3J9ZVHFDHPNMJznE5
+2024-11-28T13:55:47.094Z STAKES Stake account 37zPR2iSFZ8qQsiEjFcaEDGUc6pJRRL7ABFuQjzpQk56 is de-activating:  0.003283037
+2024-11-28T13:55:47.094Z STAKES Stake account 81EFAGzWyapk6BAUKj36DNy2L3nnsr1LWb1krvHKx1dk is de-activating:  1.045844506
+2024-11-28T13:55:47.094Z STAKES Stake account Bn71iemKaZV2dfkpJwZfov6S4TLq23mS3Mv4D2s4pNLu is de-activating:  0.003314638
+2024-11-28T13:55:47.095Z STAKES Stake account 4d6ZHPxQe3nMpt77EBaC2btwF7kdd1r7J7pMgqHxVXeW is de-activated:  6.518821319
+2024-11-28T13:55:47.095Z STAKES Stake account GcmSS3b9wRUSaE3PvGPT5Ua8rPUhpuXMrbA6jh8Cu6PD is de-activating:  0.003284097
+2024-11-28T13:55:47.095Z STAKES Found:  0  accounts that can be de-activated delinquent validator 52YQr3Je2C1BJMFc4AxydsT4tad3J9ZVHFDHPNMJznE5
+2024-11-28T13:55:47.095Z FIND No deactivations possible for this validator
+2024-11-28T13:55:47.095Z FIND Total de-activated: 4.100000498
