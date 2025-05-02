@@ -1,0 +1,250 @@
+2025-05-02T23:54:50.538Z FIND Found epoch range to explore:  777 781
+2025-05-02T23:54:50.541Z FIND Found delinquent validators [
+  'HBH2mppWdny8NBgxm61DjDqBzNLymn8fZFkFX6JnSAX6',
+  'a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV',
+  '3nSx5yrMimosm6fWh3KooRp6RxAr2A81o7UAgZUhuLQc',
+  '8fzG38kJQ2RcyJbWDBLQb59RdvS8yXq13mSuzpPnzDNk',
+  '4ZyrfokvVoHjyUA8bewrURrgkL4ktNHj93qctJnCaJ1u',
+  'Gk8yrBiy3gBWCgnHaXcEeMEyCZf9sK3kvTaSdAQAj7zm',
+  '8mG8MXRitQoct8UqfejfNw6ApRkYbvc9YiQY8YDsW9Fi',
+  'J3hhsGS7xfcYoogsAQpGBJAdAyv8Sm5peWVaN6P9v1DE',
+  '9fLwGW9hoXjfeKUpjNGTA2M3BxNivH9ds3ejNSQoDUM8',
+  '4bor1arUqveTpx64Q18XUwsLZtsEi8tFp5HZ5e4AMykx',
+  '568E22Vp87VCVWfCECSeMwJD4y5Yah45fyTJPHtsvA4o',
+  'BTeEyner9LLywxWXaPeAzz62Bxmk4eG8mXMun3uYLYKi',
+  'EBmz677zQ13MRwkKQi2fdb51ViRNwyuPtZbZhmzeEH2m',
+  '7zRyjgPbeh9HFhpyrYCG6CyLz9gssxgoJamj7CSG1cZe',
+  'HqeoSipJHfpzPwnr4UE7wuiWRcBC9QHEqjjLZjHoi4fU',
+  'E9w6i6M7mSJkm1BRozSZpSpRb5sE3NEkrHA9R2zZjuwa',
+  '8xHv2sNPA5EtsRWJQypTS34ribSqD8ffsc771i9yoRcE',
+  '81mfVVk2r1qLBQXQJqsESTSwnmgKFZjYDdvYUpgSCyYi',
+  'D8J7EZD22HAQhRQVXHfjMSU8BDPhWfokxCyPUXjpwxD',
+  'HSvtHN8qJgkmCxy8UmYN8jZQRzWAtQESmear1EAKaroH',
+  'BChmozpXUepF9LqcyFr1BqDiRZnfsRa9rogUhk5MLRcJ',
+  '83ejsRbzFDXoYFjCMuJ7Q7SWUvYgMrrQfsjbR3WA9tpa',
+  'em2PNFn44giJ5vmGM81fvJhTUABp1HMhANu56zXdaa8',
+  'HprbPTS27zWQMqfqvuTCMCnAwmMSqXMjCaMa3HxpEMsg'
+]
+2025-05-02T23:54:50.542Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2025-05-02T23:54:52.698Z STAKES Found:  19  accounts for delinquent validator HBH2mppWdny8NBgxm61DjDqBzNLymn8fZFkFX6JnSAX6
+2025-05-02T23:54:52.698Z STAKES Stake account 6gwLTG8SZSVrVGZF8tLGrLFtrromnTSqQpp5kzhMC2Mn is de-activating:  10.39686885
+2025-05-02T23:54:52.698Z STAKES Stake account EpPhCWURtCCPgd8BxSNhvSNyK8tVa3yDmvZXMn2G8KK5 is de-activating:  5.063373056
+2025-05-02T23:54:52.699Z STAKES Stake account 3JfBHU2GimUkALfbyzAQvz2wBu3b5nfJSkGLG2yKHV1K is de-activating:  23.016131067
+2025-05-02T23:54:52.699Z STAKES Stake account AQEtW3i45wfdCkZXUbQXvKihibhACZUwDfdaJPq2Hrwh is de-activating:  261.280609476
+2025-05-02T23:54:52.699Z STAKES Stake account 6Ycu6XhN5bwjeKFnFMsHtELmUtQ6iqX5pTtT47dDbtsB is de-activating:  360.314001335
+2025-05-02T23:54:52.699Z STAKES Stake account 4aiuHVNQeqoTMpjchwDssYeLcDoGgNB9Ssb1X58W7iAg is de-activating:  5.056847652
+2025-05-02T23:54:52.699Z STAKES Stake account 5PdKcFBesTKMnLMZeMQLAsEZ56nASQRy6T5URqr2c1h4 is de-activating:  10.564421063
+2025-05-02T23:54:52.700Z STAKES Stake account FvS9TsTiGi94829k6ZW5dUinvjQQZm6hbT7L1SXc7nAq is de-activating:  332.621444353
+2025-05-02T23:54:52.700Z STAKES Stake account DodjAZZbr98rMNTryJnj1bkVzJiiLb4GicPMZdbXKxKQ is de-activating:  41.781147913
+2025-05-02T23:54:52.700Z STAKES Stake account DxXi5J7aRtk1dnPNwQYLFavTxvTuGB39ZafpTGuuWPwS is de-activating:  0.003282958
+2025-05-02T23:54:52.700Z STAKES Stake account 3ekGNiwbEVLK5ZJESwkAw1JKpcdbMjQwDHENf4vVGp3S is de-activating:  105.653729099
+2025-05-02T23:54:52.701Z STAKES Stake account 4rd3ZcANPit9SSLnWWZzgskGyxEddhCzqBZJprvZcMT3 is de-activating:  3.112062098
+2025-05-02T23:54:52.701Z STAKES Stake account 58u3gGisZgNmabW3aEjMZkBNHCt7FZt8seimvmKvDRgX is de-activating:  0.003296214
+2025-05-02T23:54:52.701Z STAKES Stake account CFDnDS8rp1GSMJ7HmSVVnPJFz38vck8AoreVBUTvs8wY is de-activating:  1.037273499
+2025-05-02T23:54:52.701Z STAKES Stake account CUyRrS7oR8GcJj3d4vLx3bHaV9NHPBJweCPvK9PC7nqe is de-activating:  52.149855676
+2025-05-02T23:54:52.701Z STAKES Stake account FTC5p65kUMXR2vEfUY3172BBeWZ55nKptMieZQ5xiv32 is de-activating:  51.657317062
+2025-05-02T23:54:52.701Z STAKES Stake account 2ERVQiKg2TjnEhp8TXHbYpMCtq1MuM1j4s6XsgeTYhG4 is de-activating:  0.003329468
+2025-05-02T23:54:52.701Z STAKES Stake account CFQR4yZbh95Txp62jy5NiREDsP4MKkiacyfXQFxAkwzM is de-activating:  1.065982888
+2025-05-02T23:54:52.702Z STAKES Stake account 4Q5PQXRfb78Ub3ZsS7iHLPTLtbhRS3r2DXyaVDKzJ1cs is de-activating:  57.145697459
+2025-05-02T23:54:52.702Z STAKES Found:  0  accounts that can be de-activated delinquent validator HBH2mppWdny8NBgxm61DjDqBzNLymn8fZFkFX6JnSAX6
+2025-05-02T23:54:52.702Z FIND No deactivations possible for this validator
+2025-05-02T23:54:54.851Z STAKES Found:  12  accounts for delinquent validator a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV
+2025-05-02T23:54:54.851Z STAKES Stake account 6YsvokAZmHNyi7dcmTs15mQZVzXKKSjK5kdafwhiHnpD is de-activating:  0.003341175
+2025-05-02T23:54:54.851Z STAKES Stake account 4YwLuZ9KsiBnBAY8rh77whmTLYtncxftMgaYRei1U5Tx is de-activating:  0.38451718
+2025-05-02T23:54:54.851Z STAKES Stake account GXaPVb73RTEwJcAX7uF445kdK7tv5NNDvm7eU5djs1xg is de-activating:  127.766858119
+2025-05-02T23:54:54.851Z STAKES Stake account AJugtRvPBJwNc32j2uZLMLM2P3FR9BnPv3KdXwwnYDHX is de-activating:  0.007942007
+2025-05-02T23:54:54.851Z STAKES Stake account ACgKp93cRNi36wFZ5TfFWWVbpHSCY4kR5ZfFkLm5psqb is de-activating:  0.003436559
+2025-05-02T23:54:54.851Z STAKES Stake account EwYMxbn9Tge28YvcKMwZXnY4ZDtqBnEZRspmfzk3DPMP is de-activating:  0.003371884
+2025-05-02T23:54:54.851Z STAKES Stake account 7L9rTGdUoMgvnKg4qCumQVawPbs1cKRkc7cDfcpp1uSg is de-activating:  5.16926966
+2025-05-02T23:54:54.851Z STAKES Stake account DVXd9L6GhXXTBS9whKP9GNtWc8ZoKG3YTwjZuFs8tvgV is de-activated:  0.045872089
+2025-05-02T23:54:54.851Z STAKES Stake account 8aBbqN4hT61wabM9ruxmDp6MLnLodCL68iADNmzYWbBA is de-activating:  0.003442775
+2025-05-02T23:54:54.851Z STAKES Stake account 457JjitfCGXZ4TvYfKj7WjoR8ko3BrLUtdRa3GahSNkH is de-activating:  2.393471251
+2025-05-02T23:54:54.851Z STAKES Stake account dYujrs4nCjcphHK3ahQs2xVL599rPiseknHhEY2jeFf is de-activating:  0.00329477
+2025-05-02T23:54:54.851Z STAKES Stake account CAtQXzAtYysZWomQwcym941621Zx29wKGU95BimeoKqw is de-activating:  0.003392149
+2025-05-02T23:54:54.851Z STAKES Found:  0  accounts that can be de-activated delinquent validator a1exajFBsggm7R7ydb4LwyEAdsLCUKNAiUrre9B12kV
+2025-05-02T23:54:54.851Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:55:03.398Z FIND Error processing validator 3nSx5yrMimosm6fWh3KooRp6RxAr2A81o7UAgZUhuLQc 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "1d717c76-5441-438a-8fe4-7dea1fc13b50" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "1d717c76-5441-438a-8fe4-7dea1fc13b50" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:55:12.031Z FIND Error processing validator 8fzG38kJQ2RcyJbWDBLQb59RdvS8yXq13mSuzpPnzDNk 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "93cef065-54ca-49a7-876a-c7a919e74583" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "93cef065-54ca-49a7-876a-c7a919e74583" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:55:20.651Z FIND Error processing validator 4ZyrfokvVoHjyUA8bewrURrgkL4ktNHj93qctJnCaJ1u 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "34e45e18-d890-485e-a212-99af2d793d1a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "34e45e18-d890-485e-a212-99af2d793d1a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-02T23:55:23.679Z STAKES Found:  11  accounts for delinquent validator Gk8yrBiy3gBWCgnHaXcEeMEyCZf9sK3kvTaSdAQAj7zm
+2025-05-02T23:55:23.679Z STAKES Stake account CCboFDa5zc2DpX5erDRAibMaPSqk2wWVQgUL52ZfgJ7o is de-activating:  0.003445604
+2025-05-02T23:55:23.679Z STAKES Stake account 4baq3YobD26FBd6Qf19QKupg7vGazjBkSyfLBe2REN91 is de-activated:  0.0046078
+2025-05-02T23:55:23.679Z STAKES Stake account Gd7XVbNKrWZhpkEkLgBGGhMWQhqkfaJCGG4LijzLPXF1 is de-activating:  0.003438868
+2025-05-02T23:55:23.679Z STAKES Stake account FExpDCvS6P15KqF5Cf8s4BnxeK9R8ARrkLkt1ZunHg85 is de-activated:  0.203776432
+2025-05-02T23:55:23.679Z STAKES Stake account 5h7JrBGVjDkVfYBgjumaCD4Xzqj54BBHupraejyHajyF is de-activating:  2.429196562
+2025-05-02T23:55:23.679Z STAKES Stake account DDDxqxbStMeb9Sqf7E68ppky5gL5xr52CZH6Z25uuRuH is de-activating:  0.003343094
+2025-05-02T23:55:23.679Z STAKES Stake account Bqc3aAK5WmanEPWv3iJiDBnxWtfdjmaywp3SFqsugbFs is de-activating:  0.003394193
+2025-05-02T23:55:23.679Z STAKES Stake account AwHXKVViFczGT4BPEjwFtQEnXsF829M4r1y8rpfEXgMj is de-activated:  0.00459727
+2025-05-02T23:55:23.679Z STAKES Stake account FxF2JA2krh2DUZLVe1Zsnqgj5X3tc49vf5NvQRFZLc68 is de-activated:  502.304703725
+2025-05-02T23:55:23.679Z STAKES Stake account Hmb7SEwc2pVnZS6sK8pfjT7LfTS7REwYvQKVLAAo5Yv8 is de-activating:  0.003296041
+2025-05-02T23:55:23.680Z STAKES Stake account AGPa77hgWn1nzVAzYDU2nD1WJgs9qeUTBDk5cvgqYJgo is de-activating:  0.003387993
+2025-05-02T23:55:23.680Z STAKES Found:  0  accounts that can be de-activated delinquent validator Gk8yrBiy3gBWCgnHaXcEeMEyCZf9sK3kvTaSdAQAj7zm
+2025-05-02T23:55:23.680Z FIND No deactivations possible for this validator
+2025-05-02T23:55:26.709Z STAKES Found:  1  accounts for delinquent validator 8mG8MXRitQoct8UqfejfNw6ApRkYbvc9YiQY8YDsW9Fi
+2025-05-02T23:55:26.709Z STAKES Stake account 9TWzC2whYUzrjZVhYDf2VNHn38NLAaF2w9yh69dKvxDE is activated:  1.003
+2025-05-02T23:55:26.709Z STAKES Found:  1  accounts that can be de-activated delinquent validator 8mG8MXRitQoct8UqfejfNw6ApRkYbvc9YiQY8YDsW9Fi
+2025-05-02T23:55:26.784Z DEACTIVATE Blockhash: D5gxcqvz74PzY56Y5FzswwUYcfiFUq8LAD2ZuqVmgxq7
+2025-05-02T23:55:26.835Z DEACTIVATE Sent tx: 1MQRKov5DMEuKSDQ6YBXauZwx5NkcVcZ8WK5AMNUifxeEuYAn8VevQ2Wk7C3JbJ4LGTQMGbwuPFiAmd1wviWHTm https://explorer.solana.com/tx/1MQRKov5DMEuKSDQ6YBXauZwx5NkcVcZ8WK5AMNUifxeEuYAn8VevQ2Wk7C3JbJ4LGTQMGbwuPFiAmd1wviWHTm
+2025-05-02T23:55:26.939Z DEACTIVATE Waiting for confirmations...
+2025-05-02T23:56:26.840Z FIND Error processing validator 8mG8MXRitQoct8UqfejfNw6ApRkYbvc9YiQY8YDsW9Fi Transaction was not confirmed in 60.00 seconds. It is unknown if it succeeded or failed. Check signature 1MQRKov5DMEuKSDQ6YBXauZwx5NkcVcZ8WK5AMNUifxeEuYAn8VevQ2Wk7C3JbJ4LGTQMGbwuPFiAmd1wviWHTm using the Solana Explorer or CLI tools. TransactionExpiredTimeoutError: Transaction was not confirmed in 60.00 seconds. It is unknown if it succeeded or failed. Check signature 1MQRKov5DMEuKSDQ6YBXauZwx5NkcVcZ8WK5AMNUifxeEuYAn8VevQ2Wk7C3JbJ4LGTQMGbwuPFiAmd1wviWHTm using the Solana Explorer or CLI tools.
+    at Connection.confirmTransactionUsingLegacyTimeoutStrategy (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:8263:15)
+    at async Connection.confirmTransaction (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:7916:14)
+    at async Promise.all (index 0)
+    at async deactivateDelinquentAccounts (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/index.js:161:5)
+    at async unstakeDelinquents (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/index.js:190:21) {
+  signature: '1MQRKov5DMEuKSDQ6YBXauZwx5NkcVcZ8WK5AMNUifxeEuYAn8VevQ2Wk7C3JbJ4LGTQMGbwuPFiAmd1wviWHTm'
+}
+2025-05-02T23:56:29.857Z STAKES Found:  1  accounts for delinquent validator J3hhsGS7xfcYoogsAQpGBJAdAyv8Sm5peWVaN6P9v1DE
+2025-05-02T23:56:29.858Z STAKES Stake account HUPC66mAowmTYE4cQakd5gVk4EyxCzR5VTEem5EALWVC is de-activating:  1.003
+2025-05-02T23:56:29.858Z STAKES Found:  0  accounts that can be de-activated delinquent validator J3hhsGS7xfcYoogsAQpGBJAdAyv8Sm5peWVaN6P9v1DE
+2025-05-02T23:56:29.858Z FIND No deactivations possible for this validator
+2025-05-02T23:56:32.861Z STAKES Found:  1  accounts for delinquent validator 9fLwGW9hoXjfeKUpjNGTA2M3BxNivH9ds3ejNSQoDUM8
+2025-05-02T23:56:32.862Z STAKES Stake account 8DCAPtFGe2aC84qa71q1oi1Q6dqJQzCVTqmb45AYLJuk is de-activating:  1.003
+2025-05-02T23:56:32.862Z STAKES Found:  0  accounts that can be de-activated delinquent validator 9fLwGW9hoXjfeKUpjNGTA2M3BxNivH9ds3ejNSQoDUM8
+2025-05-02T23:56:32.862Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:56:40.933Z FIND Error processing validator 4bor1arUqveTpx64Q18XUwsLZtsEi8tFp5HZ5e4AMykx 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "e427b125-3fb8-432d-bfc5-acc04612d56a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "e427b125-3fb8-432d-bfc5-acc04612d56a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:56:49.096Z FIND Error processing validator 568E22Vp87VCVWfCECSeMwJD4y5Yah45fyTJPHtsvA4o 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "412061b8-1992-42d5-956a-e324d1d05ab1" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "412061b8-1992-42d5-956a-e324d1d05ab1" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:56:59.434Z STAKES Found:  1  accounts for delinquent validator BTeEyner9LLywxWXaPeAzz62Bxmk4eG8mXMun3uYLYKi
+2025-05-02T23:56:59.434Z STAKES Stake account E8UbZa4DvGWz7tfyTDi1spLv7G3o1F2UrQKTHpTj662t is de-activating:  1.003
+2025-05-02T23:56:59.434Z STAKES Found:  0  accounts that can be de-activated delinquent validator BTeEyner9LLywxWXaPeAzz62Bxmk4eG8mXMun3uYLYKi
+2025-05-02T23:56:59.434Z FIND No deactivations possible for this validator
+2025-05-02T23:57:01.618Z STAKES Found:  1  accounts for delinquent validator EBmz677zQ13MRwkKQi2fdb51ViRNwyuPtZbZhmzeEH2m
+2025-05-02T23:57:01.618Z STAKES Stake account CGsY6VTj4JfK7bV73gzdr8h86fAfqkEyVBFN5b4zmdS is activated:  1.003
+2025-05-02T23:57:01.618Z STAKES Found:  1  accounts that can be de-activated delinquent validator EBmz677zQ13MRwkKQi2fdb51ViRNwyuPtZbZhmzeEH2m
+2025-05-02T23:57:01.687Z DEACTIVATE Blockhash: AJ4XKEjKuMTY5qNrMWtoXDAs29B4mjmPz1FbYCdznfoz
+2025-05-02T23:57:01.771Z DEACTIVATE Sent tx: 64TSJt9Jbvkx8hRMrkfiAjkXYPhPuGeMwhBAV3noSiHhsjNMnvRiK7vRj5BbuFVoeFkEMn7UwYZa7YrDdewqXngq https://explorer.solana.com/tx/64TSJt9Jbvkx8hRMrkfiAjkXYPhPuGeMwhBAV3noSiHhsjNMnvRiK7vRj5BbuFVoeFkEMn7UwYZa7YrDdewqXngq
+2025-05-02T23:57:01.871Z DEACTIVATE Waiting for confirmations...
+2025-05-02T23:57:15.111Z DEACTIVATE Confirmed.
+2025-05-02T23:57:15.112Z FIND Deactivated stake accounts with total balance:
+2025-05-02T23:57:17.366Z STAKES Found:  1  accounts for delinquent validator 7zRyjgPbeh9HFhpyrYCG6CyLz9gssxgoJamj7CSG1cZe
+2025-05-02T23:57:17.367Z STAKES Stake account 5DqYemHZwegWXSBZxs7kUu1oUxzKUYa64DcEA6QdSZpv is activated:  1.003
+2025-05-02T23:57:17.367Z STAKES Found:  1  accounts that can be de-activated delinquent validator 7zRyjgPbeh9HFhpyrYCG6CyLz9gssxgoJamj7CSG1cZe
+2025-05-02T23:57:17.436Z DEACTIVATE Blockhash: 2NEBWTyHEzzGVBhq4KBgTJGMhHSDZqRiK7UX2BGb3MTJ
+2025-05-02T23:57:17.507Z DEACTIVATE Sent tx: 4aRNVPtap2WsJeHUJaLFwzXBx4SKLg896dnfakaEvh1fmUJMg28XWbCTqB8X6i9Tx3SWGtpXaodMiazXr3V3cc5c https://explorer.solana.com/tx/4aRNVPtap2WsJeHUJaLFwzXBx4SKLg896dnfakaEvh1fmUJMg28XWbCTqB8X6i9Tx3SWGtpXaodMiazXr3V3cc5c
+2025-05-02T23:57:17.608Z DEACTIVATE Waiting for confirmations...
+2025-05-02T23:57:31.895Z DEACTIVATE Confirmed.
+2025-05-02T23:57:31.895Z FIND Deactivated stake accounts with total balance:
+2025-05-02T23:57:35.382Z STAKES Found:  1  accounts for delinquent validator HqeoSipJHfpzPwnr4UE7wuiWRcBC9QHEqjjLZjHoi4fU
+2025-05-02T23:57:35.382Z STAKES Stake account 2FxSHooxdeQTR7z8eeXJaGC3DMoBqji8tVyKxdfmsDz4 is activated:  1.003
+2025-05-02T23:57:35.382Z STAKES Found:  1  accounts that can be de-activated delinquent validator HqeoSipJHfpzPwnr4UE7wuiWRcBC9QHEqjjLZjHoi4fU
+2025-05-02T23:57:35.488Z DEACTIVATE Blockhash: 9HSigXfqBcP1Fno6mGEtNbAZhG3j2XoS7rZC2JE3sCPR
+2025-05-02T23:57:35.533Z DEACTIVATE Sent tx: 41TFD3zffDMH5X8u9hZv3iueZWMSSRhAvNuTrMHLD4apwqAZ6j8tJjYvrm5diLprW9fGb737vDWQ46kUWdakRNoV https://explorer.solana.com/tx/41TFD3zffDMH5X8u9hZv3iueZWMSSRhAvNuTrMHLD4apwqAZ6j8tJjYvrm5diLprW9fGb737vDWQ46kUWdakRNoV
+2025-05-02T23:57:35.635Z DEACTIVATE Waiting for confirmations...
+2025-05-02T23:57:53.582Z DEACTIVATE Confirmed.
+2025-05-02T23:57:53.582Z FIND Deactivated stake accounts with total balance:
+2025-05-02T23:57:56.509Z STAKES Found:  1  accounts for delinquent validator E9w6i6M7mSJkm1BRozSZpSpRb5sE3NEkrHA9R2zZjuwa
+2025-05-02T23:57:56.509Z STAKES Stake account 9cKx8aF6NoRjwPFeeXxxpKvCx7T2CsUWqQaovXuT26Ao is de-activating:  1.003
+2025-05-02T23:57:56.509Z STAKES Found:  0  accounts that can be de-activated delinquent validator E9w6i6M7mSJkm1BRozSZpSpRb5sE3NEkrHA9R2zZjuwa
+2025-05-02T23:57:56.509Z FIND No deactivations possible for this validator
+2025-05-02T23:57:59.265Z STAKES Found:  1  accounts for delinquent validator 8xHv2sNPA5EtsRWJQypTS34ribSqD8ffsc771i9yoRcE
+2025-05-02T23:57:59.265Z STAKES Stake account 2CcLxNgenCPQ6HaXtXSEnKpVZHibKhF5SHAQvoCaxW5s is de-activating:  1.003
+2025-05-02T23:57:59.265Z STAKES Found:  0  accounts that can be de-activated delinquent validator 8xHv2sNPA5EtsRWJQypTS34ribSqD8ffsc771i9yoRcE
+2025-05-02T23:57:59.265Z FIND No deactivations possible for this validator
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:07.332Z FIND Error processing validator 81mfVVk2r1qLBQXQJqsESTSwnmgKFZjYDdvYUpgSCyYi 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "a06d4ff0-59c6-4546-b951-9bd88536cf4e" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "a06d4ff0-59c6-4546-b951-9bd88536cf4e" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:15.484Z FIND Error processing validator D8J7EZD22HAQhRQVXHfjMSU8BDPhWfokxCyPUXjpwxD 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "27c415b8-4762-49fe-b24e-5999f707fb30" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "27c415b8-4762-49fe-b24e-5999f707fb30" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:23.634Z FIND Error processing validator HSvtHN8qJgkmCxy8UmYN8jZQRzWAtQESmear1EAKaroH 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "46d94a51-d242-4356-9f97-d91215324c5a" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "46d94a51-d242-4356-9f97-d91215324c5a" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:31.784Z FIND Error processing validator BChmozpXUepF9LqcyFr1BqDiRZnfsRa9rogUhk5MLRcJ 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "b98e7acd-d649-4836-872f-4438144c679c" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "b98e7acd-d649-4836-872f-4438144c679c" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:39.945Z FIND Error processing validator 83ejsRbzFDXoYFjCMuJ7Q7SWUvYgMrrQfsjbR3WA9tpa 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "f2113b6f-bfb1-4a52-85c1-22b5267fe93d" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "f2113b6f-bfb1-4a52-85c1-22b5267fe93d" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:48.091Z FIND Error processing validator em2PNFn44giJ5vmGM81fvJhTUABp1HMhANu56zXdaa8 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "809e62cd-877e-4549-abae-b05e2e4cd1d6" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "809e62cd-877e-4549-abae-b05e2e4cd1d6" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server responded with 429 Too Many Requests.  Retrying after 500ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 1000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 2000ms delay...
+Server responded with 429 Too Many Requests.  Retrying after 4000ms delay...
+2025-05-02T23:58:56.252Z FIND Error processing validator HprbPTS27zWQMqfqvuTCMCnAwmMSqXMjCaMa3HxpEMsg 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "d48af3c1-9ad0-47e1-9077-a400d508e6a4" } 
+ Error: 429 Too Many Requests:  {"jsonrpc":"2.0","error":{"code": 429, "message":"Too many requests for a specific RPC call"}, "id": "d48af3c1-9ad0-47e1-9077-a400d508e6a4" } 
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-02T23:58:56.253Z FIND Total de-activated: 3.009
