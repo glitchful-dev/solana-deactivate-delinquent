@@ -1,0 +1,39 @@
+2025-08-11T23:54:54.848Z FIND Found epoch range to explore:  828 832
+2025-08-11T23:54:54.855Z FIND Found delinquent validators [
+  '2UuXvFqNmyxsNygvFUfjmDGMGn7pGQ61t5CUzvgczazW',
+  'HC1NSDR9cbBeQ8V1XJ62VNceUAbjGdnCcH7f5wVFVZw3',
+  'biU9dGMg5QxAudpoT9PMRPUP4hs9TBPpxwsFEYoCVPw'
+]
+2025-08-11T23:54:54.857Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2025-08-11T23:55:25.020Z FIND Error processing validator 2UuXvFqNmyxsNygvFUfjmDGMGn7pGQ61t5CUzvgczazW 503 Service Unavailable: {"jsonrpc":"2.0","error":{"code":503,"message":"Service unavailable"}, "id": null}
+ Error: 503 Service Unavailable: {"jsonrpc":"2.0","error":{"code":503,"message":"Service unavailable"}, "id": null}
+
+    at ClientBrowser.callServer (/home/runner/work/solana-deactivate-delinquent/solana-deactivate-delinquent/node_modules/.pnpm/@solana+web3.js@1.87.6/node_modules/@solana/web3.js/lib/index.cjs.js:6474:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-08-11T23:55:56.017Z STAKES Found:  15  accounts for delinquent validator HC1NSDR9cbBeQ8V1XJ62VNceUAbjGdnCcH7f5wVFVZw3
+2025-08-11T23:55:56.017Z STAKES Stake account 7pyRGmKB8v21drN4XRNBuXYCYBpmCY5uhsUrM4YE1PQr is de-activating:  0.003286191
+2025-08-11T23:55:56.017Z STAKES Stake account D59L73dJWhWHBiw4MBceNedxNbiGpUDNDChHukwKkAjK is de-activating:  2.497681497
+2025-08-11T23:55:56.017Z STAKES Stake account Hkd6RfiYY2qNwqd8YdS4mfWRBD3QSg1k9qLWJySroF7w is de-activating:  0.00328288
+2025-08-11T23:55:56.018Z STAKES Stake account 7MQ8zMMb7kUwZDA5s7SHinBjG6296BLEFfnCs64VsH19 is de-activating:  0.003315197
+2025-08-11T23:55:56.018Z STAKES Stake account 2imYPPvPpeFjsTxB95p4n1RpdvXTWWGyKM2SuGztg2Lr is de-activating:  0.009538585
+2025-08-11T23:55:56.018Z STAKES Stake account 6wCM4dXrnHHfCUfc2SUUK8SU13ugAE2SUU2U6s5RdF2Y is de-activating:  0.003288752
+2025-08-11T23:55:56.018Z STAKES Stake account Ky7z6Y5Hi78X1c2Tg4FLa6EgCYfmd9GiZ5Rj75Bjs9r is de-activating:  0.006364928
+2025-08-11T23:55:56.018Z STAKES Stake account 66LTkht1TML9RQsWZCzoTdmGwu1gAdYoYr3vgEmH44L2 is de-activated:  0.00228288
+2025-08-11T23:55:56.019Z STAKES Stake account B9SH6N7FLgcVWPHTmB2mftVjhujH34PbeLBirvApPm2H is de-activating:  0.003316115
+2025-08-11T23:55:56.019Z STAKES Stake account 6UwbiqT6uidrsQ8xK5TVz34ihfbYcMfEJ24kChgoj5tC is de-activating:  0.003419236
+2025-08-11T23:55:56.019Z STAKES Stake account FqqpWumVrVQGRZAGztPJgU91oomw9p5feZJXFsN83mMo is de-activating:  0.004703527
+2025-08-11T23:55:56.019Z STAKES Stake account BApCAZ7r56s41FCyQnMxmAQYyvix3FpEUxbwYNj55c1F is de-activating:  0.003369292
+2025-08-11T23:55:56.020Z STAKES Stake account 4v4ZtzGqH1L6Czc3ZCWyrjBzWX5gTjipg5rC6djQpwD2 is de-activated:  0.002285703
+2025-08-11T23:55:56.020Z STAKES Stake account 8r5fceS3vmSCSpANJj9iRvwogeM55yz8sK4QgVeCJ5W4 is de-activating:  0.003419856
+2025-08-11T23:55:56.020Z STAKES Stake account FqvpQihzYtY8wmvpiYirDc9WrM2NA4jcVtBGgmv9kri7 is de-activated:  1.008024146
+2025-08-11T23:55:56.020Z STAKES Found:  0  accounts that can be de-activated delinquent validator HC1NSDR9cbBeQ8V1XJ62VNceUAbjGdnCcH7f5wVFVZw3
+2025-08-11T23:55:56.020Z FIND No deactivations possible for this validator
+2025-08-11T23:56:27.238Z STAKES Found:  1  accounts for delinquent validator biU9dGMg5QxAudpoT9PMRPUP4hs9TBPpxwsFEYoCVPw
+2025-08-11T23:56:27.238Z STAKES Stake account 6ixTajjcvkeyYjXP8vQdeEvebq7vBM5mnqouK1TyGVWB is activated:  1.000000003
+2025-08-11T23:56:27.238Z STAKES Found:  1  accounts that can be de-activated delinquent validator biU9dGMg5QxAudpoT9PMRPUP4hs9TBPpxwsFEYoCVPw
+2025-08-11T23:56:27.243Z DEACTIVATE Blockhash: 2XRon5bAu2eSjCNTNCeNGCZmm58Mv2gsrSFwz93ptHZD
+2025-08-11T23:56:27.289Z DEACTIVATE Sent tx: 4EqMV6ApdRTBdDgSZnQ6RRnrpy2KXDJUMgDVDp7hgbxDGFiBmhSFJPMWzhWyowcphENifUTFcRts7ribUx3h2yv6 https://explorer.solana.com/tx/4EqMV6ApdRTBdDgSZnQ6RRnrpy2KXDJUMgDVDp7hgbxDGFiBmhSFJPMWzhWyowcphENifUTFcRts7ribUx3h2yv6
+2025-08-11T23:56:27.394Z DEACTIVATE Waiting for confirmations...
+2025-08-11T23:56:43.406Z DEACTIVATE Confirmed.
+2025-08-11T23:56:43.406Z FIND Deactivated stake accounts with total balance:
+2025-08-11T23:56:43.406Z FIND Total de-activated: 1.000000003
