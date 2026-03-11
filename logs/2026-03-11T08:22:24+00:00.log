@@ -1,0 +1,23 @@
+2026-03-11T08:22:26.399Z FIND Found epoch range to explore:  935 939
+2026-03-11T08:22:26.401Z FIND Found delinquent validators [
+  'oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH',
+  'B1mC182kf6CakQ87H1rb3GVuKVVU96LBUcvNp632TggB'
+]
+2026-03-11T08:22:26.402Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2026-03-11T08:22:26.593Z STAKES Found:  1  accounts for delinquent validator oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH
+2026-03-11T08:22:26.593Z STAKES Stake account H5EmGdEtZaccLY8wxS8Rhx94FywdW2gazs9FAhso7ZAR is activated:  0.300000008
+2026-03-11T08:22:26.593Z STAKES Found:  1  accounts that can be de-activated delinquent validator oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH
+2026-03-11T08:22:26.613Z DEACTIVATE Blockhash: 2R345Tt1eXV3yCP37Zp3oZZoKhBG5NYFdhyxAoS1DRTd
+2026-03-11T08:22:26.643Z DEACTIVATE Sent tx: 4pFRVuxSrYk8QLMauA2btVZWyJHvjbzAgiS3makwHAh5H44GbDYT1VkisP5V5Vf9SnssYYBwftMUfeyYgL1w5gQU https://explorer.solana.com/tx/4pFRVuxSrYk8QLMauA2btVZWyJHvjbzAgiS3makwHAh5H44GbDYT1VkisP5V5Vf9SnssYYBwftMUfeyYgL1w5gQU
+2026-03-11T08:22:26.747Z DEACTIVATE Waiting for confirmations...
+2026-03-11T08:22:39.859Z DEACTIVATE Confirmed.
+2026-03-11T08:22:39.859Z FIND Deactivated stake accounts with total balance:
+2026-03-11T08:22:39.976Z STAKES Found:  1  accounts for delinquent validator B1mC182kf6CakQ87H1rb3GVuKVVU96LBUcvNp632TggB
+2026-03-11T08:22:39.976Z STAKES Stake account BxepbVQ7ejMossjLnGocyxBnDLDQ5WvmWxB2tiubSyfe is activated:  0.01
+2026-03-11T08:22:39.976Z STAKES Found:  1  accounts that can be de-activated delinquent validator B1mC182kf6CakQ87H1rb3GVuKVVU96LBUcvNp632TggB
+2026-03-11T08:22:39.995Z DEACTIVATE Blockhash: 9fkLLRr6TjNa8a83VHFQFgqHhUww9oEkft1FebzXC8V4
+2026-03-11T08:22:40.042Z DEACTIVATE Sent tx: 2B9QFJSD9gCX2GheUMaNMZZsysx6vMmVsjBtRs3auyptBHJxSu16aG6c36bed9PbqjVKvxN7jFW2rWubrZCr1K1M https://explorer.solana.com/tx/2B9QFJSD9gCX2GheUMaNMZZsysx6vMmVsjBtRs3auyptBHJxSu16aG6c36bed9PbqjVKvxN7jFW2rWubrZCr1K1M
+2026-03-11T08:22:40.142Z DEACTIVATE Waiting for confirmations...
+2026-03-11T08:22:53.404Z DEACTIVATE Confirmed.
+2026-03-11T08:22:53.404Z FIND Deactivated stake accounts with total balance:
+2026-03-11T08:22:53.404Z FIND Total de-activated: 0.310000008
