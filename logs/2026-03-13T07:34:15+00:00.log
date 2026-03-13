@@ -1,0 +1,22 @@
+2026-03-13T07:34:17.446Z FIND Found epoch range to explore:  936 940
+2026-03-13T07:34:17.448Z FIND Found delinquent validators [
+  '9fxpfpWvsnkf3YSEkfKjUusvRmoj5E1WqMmkgJPVvjpx',
+  'TXTXAmsarrYrTobiCzq2r9NBqfChqRE8wEfJNsYZZ6F'
+]
+2026-03-13T07:34:17.449Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2026-03-13T07:34:17.644Z STAKES Found:  1  accounts for delinquent validator 9fxpfpWvsnkf3YSEkfKjUusvRmoj5E1WqMmkgJPVvjpx
+2026-03-13T07:34:17.645Z STAKES Stake account ExMWZjtT3uUNHsjt1MSqAkWNtU955uZPQMrhogLvgQKo is activated:  1.000000013
+2026-03-13T07:34:17.645Z STAKES Found:  1  accounts that can be de-activated delinquent validator 9fxpfpWvsnkf3YSEkfKjUusvRmoj5E1WqMmkgJPVvjpx
+2026-03-13T07:34:17.731Z DEACTIVATE Blockhash: 2eHgUTd1FW9LG11RYYSj2HuAWuXJpp5s75x4qgvMSVx5
+2026-03-13T07:34:17.799Z DEACTIVATE Sent tx: 5FibPenVXiwhUdbRh2wUSLF4GpMXaX3MeUqRutJ2ADeMXk35V95PrYFujfx9t7uawfgsCVBe2DE79yX62uvfCWKa https://explorer.solana.com/tx/5FibPenVXiwhUdbRh2wUSLF4GpMXaX3MeUqRutJ2ADeMXk35V95PrYFujfx9t7uawfgsCVBe2DE79yX62uvfCWKa
+2026-03-13T07:34:17.903Z DEACTIVATE Waiting for confirmations...
+2026-03-13T07:34:30.566Z DEACTIVATE Confirmed.
+2026-03-13T07:34:30.566Z FIND Deactivated stake accounts with total balance:
+2026-03-13T07:34:30.749Z STAKES Found:  4  accounts for delinquent validator TXTXAmsarrYrTobiCzq2r9NBqfChqRE8wEfJNsYZZ6F
+2026-03-13T07:34:30.749Z STAKES Stake account SfDpTQuNwPaFAUpLj79Bdp9wK1jbu5QthEV4MkWMWMD is de-activated:  102.106432697
+2026-03-13T07:34:30.749Z STAKES Stake account 3XRMPJsyRTQ3NUmFmZrSkLFHok5t2HsFDzw2QfoBCsrK is de-activating:  0.00331107
+2026-03-13T07:34:30.749Z STAKES Stake account s22qPggjjptZfdwqbyYyF7eNmNqbyJuVPSRjJtMRGTy is de-activating:  0.010088338
+2026-03-13T07:34:30.749Z STAKES Stake account 882RbQARg2KALgM41zPWZwdXTGCtMRJgwaDLtfirjA7 is de-activating:  0.003312465
+2026-03-13T07:34:30.749Z STAKES Found:  0  accounts that can be de-activated delinquent validator TXTXAmsarrYrTobiCzq2r9NBqfChqRE8wEfJNsYZZ6F
+2026-03-13T07:34:30.750Z FIND No deactivations possible for this validator
+2026-03-13T07:34:30.750Z FIND Total de-activated: 1.000000013
