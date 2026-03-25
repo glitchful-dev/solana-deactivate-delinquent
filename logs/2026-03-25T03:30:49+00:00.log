@@ -1,0 +1,25 @@
+2026-03-25T03:30:52.007Z FIND Found epoch range to explore:  942 946
+2026-03-25T03:30:52.008Z FIND Found delinquent validators [
+  '7rUTjy6KaEpZYCUx2xFP1W3s57kT4qGt6fN19osyLL31',
+  'oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH'
+]
+2026-03-25T03:30:52.010Z FIND Found reference validator CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1
+2026-03-25T03:30:55.765Z STAKES Found:  3  accounts for delinquent validator 7rUTjy6KaEpZYCUx2xFP1W3s57kT4qGt6fN19osyLL31
+2026-03-25T03:30:55.765Z STAKES Stake account FMTfXa9TeT5GZP7yN1ZWQTEA9eyBQNj6YZS3JN6RVjbG is activated:  104.845572083
+2026-03-25T03:30:55.766Z STAKES Stake account Hp1t5xercR7n65wawvftnEX3uiFrUDao5UbU8dQs334A is de-activating:  0.003283061
+2026-03-25T03:30:55.766Z STAKES Stake account EWcYaQ8zwu4eCKBHdcuW7CfiaiubdPo58PCnQuBjjeAp is activated:  0.003328005
+2026-03-25T03:30:55.766Z STAKES Found:  2  accounts that can be de-activated delinquent validator 7rUTjy6KaEpZYCUx2xFP1W3s57kT4qGt6fN19osyLL31
+2026-03-25T03:30:55.825Z DEACTIVATE Blockhash: CWL1ZKjDErCWGZ5HBjxCrqXR3dsAHVL4LWmT76xQZq5k
+2026-03-25T03:30:55.884Z DEACTIVATE Sent tx: 21hNgLHAZVpjk7G5FwBKQoyt9AWbwkThTY3MSJkvbts9NhE6P2BsytCFx9NBtFoz5nUdawbcQhA5eAf66SnpGuVz https://explorer.solana.com/tx/21hNgLHAZVpjk7G5FwBKQoyt9AWbwkThTY3MSJkvbts9NhE6P2BsytCFx9NBtFoz5nUdawbcQhA5eAf66SnpGuVz
+2026-03-25T03:30:55.988Z DEACTIVATE Waiting for confirmations...
+2026-03-25T03:31:10.029Z DEACTIVATE Confirmed.
+2026-03-25T03:31:10.029Z FIND Deactivated stake accounts with total balance:
+2026-03-25T03:31:10.242Z STAKES Found:  1  accounts for delinquent validator oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH
+2026-03-25T03:31:10.243Z STAKES Stake account H5EmGdEtZaccLY8wxS8Rhx94FywdW2gazs9FAhso7ZAR is activated:  0.300000008
+2026-03-25T03:31:10.243Z STAKES Found:  1  accounts that can be de-activated delinquent validator oNV8TNZimLTkt5rvCNQtWGtGRXyaX5QEWwxWvvxCNvH
+2026-03-25T03:31:10.297Z DEACTIVATE Blockhash: ChnDEoEw6GEWjVZWQgqxEsSePfwm7ZBd6zUR1fiCJzCV
+2026-03-25T03:31:10.360Z DEACTIVATE Sent tx: 4DQcHKKyeXZWF2bzsVnv2oLQMNQEZ5b8UhrCWnHWb9PXin1Mj2NnX6m2gjF4DADvcJGpo5KtcZZwAGqejsz2hqyn https://explorer.solana.com/tx/4DQcHKKyeXZWF2bzsVnv2oLQMNQEZ5b8UhrCWnHWb9PXin1Mj2NnX6m2gjF4DADvcJGpo5KtcZZwAGqejsz2hqyn
+2026-03-25T03:31:10.460Z DEACTIVATE Waiting for confirmations...
+2026-03-25T03:31:23.392Z DEACTIVATE Confirmed.
+2026-03-25T03:31:23.393Z FIND Deactivated stake accounts with total balance:
+2026-03-25T03:31:23.393Z FIND Total de-activated: 105.148900096
