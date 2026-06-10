@@ -1,0 +1,21 @@
+2026-06-10T11:25:30.039Z FIND Found epoch range to explore:  981 985
+2026-06-10T11:25:30.040Z FIND Found delinquent validators [
+  'THEVb5dS9gHYnr8eu2FHCprjnyp3uqmHNofUXD8MCQp',
+  'BvKDP89ZH2CaheBybpkq14wJnAGYPaAgTaAJxVvcVTk6'
+]
+2026-06-10T11:25:30.042Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2026-06-10T11:25:30.207Z STAKES Found:  3  accounts for delinquent validator THEVb5dS9gHYnr8eu2FHCprjnyp3uqmHNofUXD8MCQp
+2026-06-10T11:25:30.207Z STAKES Stake account BUYjjZfLU9yrLqCrjv81h3tuM7NpZdZ7jf25VoeGFc23 is de-activating:  3.486885297
+2026-06-10T11:25:30.208Z STAKES Stake account BKVtdBNAtb1Ry6mzZJjw9SAsUuvS8eTCtivZPJQvHrGd is de-activating:  0.003343186
+2026-06-10T11:25:30.208Z STAKES Stake account 5TqWc8aN5FAReZZDUJEQdEgbjHrjX3Fq1odrnR518RtR is de-activating:  0.003282967
+2026-06-10T11:25:30.208Z STAKES Found:  0  accounts that can be de-activated delinquent validator THEVb5dS9gHYnr8eu2FHCprjnyp3uqmHNofUXD8MCQp
+2026-06-10T11:25:30.208Z FIND No deactivations possible for this validator
+2026-06-10T11:25:30.257Z STAKES Found:  1  accounts for delinquent validator BvKDP89ZH2CaheBybpkq14wJnAGYPaAgTaAJxVvcVTk6
+2026-06-10T11:25:30.257Z STAKES Stake account 9xaKKDxZfqGWfs8TagTciNd3gHieJdGYG3a9oxLgP6aE is activated:  1
+2026-06-10T11:25:30.257Z STAKES Found:  1  accounts that can be de-activated delinquent validator BvKDP89ZH2CaheBybpkq14wJnAGYPaAgTaAJxVvcVTk6
+2026-06-10T11:25:30.270Z DEACTIVATE Blockhash: Dr2vBhgQUfyMyrW1CAsngRD4K44bEmm63GKcdLGuhWL4
+2026-06-10T11:25:30.288Z DEACTIVATE Sent tx: 5mFf7XD63AsEyEjc6sBZbcWfnRWYHvQbdWud3Jcp12RM7PGXXcft394CecZ1oVTEe683L2UdNgJBft2dSa6aKFQa https://explorer.solana.com/tx/5mFf7XD63AsEyEjc6sBZbcWfnRWYHvQbdWud3Jcp12RM7PGXXcft394CecZ1oVTEe683L2UdNgJBft2dSa6aKFQa
+2026-06-10T11:25:30.392Z DEACTIVATE Waiting for confirmations...
+2026-06-10T11:25:44.438Z DEACTIVATE Confirmed.
+2026-06-10T11:25:44.438Z FIND Deactivated stake accounts with total balance:
+2026-06-10T11:25:44.438Z FIND Total de-activated: 1
