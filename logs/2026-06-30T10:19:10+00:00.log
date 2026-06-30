@@ -1,0 +1,12 @@
+2026-06-30T10:19:12.760Z FIND Found epoch range to explore:  991 995
+2026-06-30T10:19:12.762Z FIND Found delinquent validators [ '35FMtgEGLC6KQzLWEnqawNpnDadzcD1FYYPeGhxWJdKT' ]
+2026-06-30T10:19:12.763Z FIND Found reference validator he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+2026-06-30T10:19:12.959Z STAKES Found:  1  accounts for delinquent validator 35FMtgEGLC6KQzLWEnqawNpnDadzcD1FYYPeGhxWJdKT
+2026-06-30T10:19:12.959Z STAKES Stake account BME9aENVnEm8BVM4XMtNeLV6t6cvBtzz6HZiUnYBcLLr is activated:  1.010000001
+2026-06-30T10:19:12.959Z STAKES Found:  1  accounts that can be de-activated delinquent validator 35FMtgEGLC6KQzLWEnqawNpnDadzcD1FYYPeGhxWJdKT
+2026-06-30T10:19:12.987Z DEACTIVATE Blockhash: HQ7eNfR8y7vUdoBCKCdrhJQ7WEzbn8ok3TjqXbWb7cZZ
+2026-06-30T10:19:13.025Z DEACTIVATE Sent tx: 4gDAgT8nzCWChNzfZ7VZXuwRawJei6UNTMqRzohEFvpUTXXxcWHniNLCchcRKiQqV3jUsSad8rhSNBrh7Udkf4HU https://explorer.solana.com/tx/4gDAgT8nzCWChNzfZ7VZXuwRawJei6UNTMqRzohEFvpUTXXxcWHniNLCchcRKiQqV3jUsSad8rhSNBrh7Udkf4HU
+2026-06-30T10:19:13.129Z DEACTIVATE Waiting for confirmations...
+2026-06-30T10:19:25.990Z DEACTIVATE Confirmed.
+2026-06-30T10:19:25.991Z FIND Deactivated stake accounts with total balance:
+2026-06-30T10:19:25.991Z FIND Total de-activated: 1.010000001
