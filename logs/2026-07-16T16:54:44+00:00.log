@@ -1,0 +1,23 @@
+2026-07-16T16:54:46.112Z FIND Found epoch range to explore:  999 1003
+2026-07-16T16:54:46.115Z FIND Found delinquent validators [
+  'DACMqLze4sKiW3Rz6BtUuLY2aRgwfRfX2EM1183KA7nG',
+  'FWisnPrhTrSoTStuA4P52inDyWQY9YFifVhaf2faBoTs'
+]
+2026-07-16T16:54:46.116Z FIND Found reference validator CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1
+2026-07-16T16:54:47.749Z STAKES Found:  1  accounts for delinquent validator DACMqLze4sKiW3Rz6BtUuLY2aRgwfRfX2EM1183KA7nG
+2026-07-16T16:54:47.750Z STAKES Stake account 9Jr5ur6jx4fzh2jMRYpCZVyJ1VCsvFU4ytVmc2mkxmCy is activated:  1.25
+2026-07-16T16:54:47.750Z STAKES Found:  1  accounts that can be de-activated delinquent validator DACMqLze4sKiW3Rz6BtUuLY2aRgwfRfX2EM1183KA7nG
+2026-07-16T16:54:47.786Z DEACTIVATE Blockhash: 6SnXiLN6jeieTTWEMU6RTvqUns6YeLmra9kjdGhoAkMo
+2026-07-16T16:54:47.828Z DEACTIVATE Sent tx: 58PmEs89L8UXtYXxrqQQmFVToYGKfDhgRej5NAkaejFFfa2JA96pEXAcAhtxyJjUu1pQKrXPp3sWQX3spDUPferE https://explorer.solana.com/tx/58PmEs89L8UXtYXxrqQQmFVToYGKfDhgRej5NAkaejFFfa2JA96pEXAcAhtxyJjUu1pQKrXPp3sWQX3spDUPferE
+2026-07-16T16:54:47.933Z DEACTIVATE Waiting for confirmations...
+2026-07-16T16:55:01.640Z DEACTIVATE Confirmed.
+2026-07-16T16:55:01.640Z FIND Deactivated stake accounts with total balance:
+2026-07-16T16:55:01.748Z STAKES Found:  1  accounts for delinquent validator FWisnPrhTrSoTStuA4P52inDyWQY9YFifVhaf2faBoTs
+2026-07-16T16:55:01.748Z STAKES Stake account BRNqagFC7tdBSZiJfbeAuZrEf1V1AR64sZCeDEToGRYh is activated:  1.01
+2026-07-16T16:55:01.749Z STAKES Found:  1  accounts that can be de-activated delinquent validator FWisnPrhTrSoTStuA4P52inDyWQY9YFifVhaf2faBoTs
+2026-07-16T16:55:01.796Z DEACTIVATE Blockhash: HjVNXuJ9BPenLetycv7B6VJ8jPmghQ8N2n21FDMmAH6p
+2026-07-16T16:55:01.832Z DEACTIVATE Sent tx: 2Cd8B1Ser6fC1YBZgdhtt9DhybnNULb8t7ySgqNh7WwXW8sfgwgaZGuVEkhvb9HMUh2zRrfRxM39jBWjwqZaSaQz https://explorer.solana.com/tx/2Cd8B1Ser6fC1YBZgdhtt9DhybnNULb8t7ySgqNh7WwXW8sfgwgaZGuVEkhvb9HMUh2zRrfRxM39jBWjwqZaSaQz
+2026-07-16T16:55:01.933Z DEACTIVATE Waiting for confirmations...
+2026-07-16T16:55:15.367Z DEACTIVATE Confirmed.
+2026-07-16T16:55:15.367Z FIND Deactivated stake accounts with total balance:
+2026-07-16T16:55:15.367Z FIND Total de-activated: 2.26
