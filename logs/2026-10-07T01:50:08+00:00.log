@@ -1,0 +1,43 @@
+2026-10-07T01:50:11.686Z FIND Found epoch range to explore:  1047 1051
+2026-10-07T01:50:11.687Z FIND Found delinquent validators [
+  'ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF',
+  '13hxMxYwu3g9tpFfS1oAGR42stai75QfE4q5pUE8B9P7',
+  '6LyZcV2fv224DB83hteJHdqWYDVEYuVpGdNBgoGVSB4H'
+]
+2026-10-07T01:50:11.689Z FIND Found reference validator CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1
+2026-10-07T01:50:11.974Z STAKES Found:  16  accounts for delinquent validator ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF
+2026-10-07T01:50:11.974Z STAKES Stake account VG72YLfUUZk5mJVmu7nXwJ5cJsuF4Ts7aqZ7dPxpQfg is de-activating:  193.117294036
+2026-10-07T01:50:11.974Z STAKES Stake account 2GdTpYNRET3dkTGHQz35HsM9BXvsdLMSvihjZDy3dUvR is de-activating:  4315.437372829
+2026-10-07T01:50:11.974Z STAKES Stake account 2P7PhkkxSHB7D68rK3qquPiBidqQvsBN6PaGg6DvcF58 is de-activating:  0.39170305
+2026-10-07T01:50:11.975Z STAKES Stake account 3smJMvLLptnvLpubjHtqdu5g6GQcUosH2arM4mZVqy3n is de-activating:  1.003315833
+2026-10-07T01:50:11.975Z STAKES Stake account 4psWhCiLCx981BeLiTbB5QUETZYfKxuYK8Yfaoc7j8nH is de-activating:  273.047930012
+2026-10-07T01:50:11.975Z STAKES Stake account 4xJL8BRU8D22P1U7p34gzgA4KCXrEGZEn5pciQFTXv7X is de-activating:  0.01262747
+2026-10-07T01:50:11.975Z STAKES Stake account 8qksp6wGGV9TdHQhgr8cSMDCV3gxuJpbHaRde7Cj8FoH is de-activating:  61.966840758
+2026-10-07T01:50:11.975Z STAKES Stake account 8ydwY2vJV34zh1j6Ma2stGrxEpmuEv1XwLs3hqcBAPzC is de-activating:  11.133244522
+2026-10-07T01:50:11.976Z STAKES Stake account 9PrRcmPqqPBusBMZLRrAVmtgahxPWrnas3cTvJbPmqLm is de-activated:  0.430531052
+2026-10-07T01:50:11.976Z STAKES Stake account BDRn2YACkXGhi8Ge7cX9xy5mZdCLSzkna5gH22fwA9yQ is de-activating:  1.663683424
+2026-10-07T01:50:11.976Z STAKES Stake account Cnj4PcnUZEqoonhKHEzDgxPdLHJKwtrpmaEVUNNYSVsr is de-activating:  0.006639957
+2026-10-07T01:50:11.976Z STAKES Stake account FCdNUhRcra7XRxm65e447GcCHeY46Ku27pB9w3bsL2UL is de-activating:  111.349882975
+2026-10-07T01:50:11.976Z STAKES Stake account FYdLnspWmE7bue8UCiD3q4hRM5DwtXjX5Tn8wfHerG5z is de-activating:  0.003365242
+2026-10-07T01:50:11.977Z STAKES Stake account FmDDFuxQXqmhwgMJLDuiSZcu1J5mNsBDgTjTSCEGYzLb is de-activating:  2.226327122
+2026-10-07T01:50:11.977Z STAKES Stake account GpgQRp9rHBJeP9vmQb2KAzVuh8XeSUbFeRdVPxuH1CYQ is de-activating:  1.869671193
+2026-10-07T01:50:11.977Z STAKES Stake account HhTRTtyqVtFbMa56AniMHdzdvWoVxxkcK5jNLYduPonq is de-activating:  0.002692496
+2026-10-07T01:50:11.977Z STAKES Found:  0  accounts that can be de-activated delinquent validator ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF
+2026-10-07T01:50:11.977Z FIND No deactivations possible for this validator
+2026-10-07T01:50:12.083Z STAKES Found:  1  accounts for delinquent validator 13hxMxYwu3g9tpFfS1oAGR42stai75QfE4q5pUE8B9P7
+2026-10-07T01:50:12.083Z STAKES Stake account GpGZcg23RXokKRTk26rjZpfutQV25PMv7LkcGUJe2ybU is activated:  1.01
+2026-10-07T01:50:12.083Z STAKES Found:  1  accounts that can be de-activated delinquent validator 13hxMxYwu3g9tpFfS1oAGR42stai75QfE4q5pUE8B9P7
+2026-10-07T01:50:12.132Z DEACTIVATE Blockhash: DpmFyTrKGoqoN7XEF3kTtppDQWGAXPKrdKfLXyYr7uEe
+2026-10-07T01:50:12.190Z DEACTIVATE Sent tx: SL8awBD1LS4VxSofvTSYy7VwiBKVFqb6CrSaGymzXmYpu7YQVdUvQGpuKajg4ZqisoQPxsVKGe4LKZihN2TTPsB https://explorer.solana.com/tx/SL8awBD1LS4VxSofvTSYy7VwiBKVFqb6CrSaGymzXmYpu7YQVdUvQGpuKajg4ZqisoQPxsVKGe4LKZihN2TTPsB
+2026-10-07T01:50:12.294Z DEACTIVATE Waiting for confirmations...
+2026-10-07T01:50:21.589Z DEACTIVATE Confirmed.
+2026-10-07T01:50:21.589Z FIND Deactivated stake accounts with total balance:
+2026-10-07T01:50:21.864Z STAKES Found:  1  accounts for delinquent validator 6LyZcV2fv224DB83hteJHdqWYDVEYuVpGdNBgoGVSB4H
+2026-10-07T01:50:21.865Z STAKES Stake account 6LrxAQD3AwGGRGzB1Zyu5oWMWyAwcxyCbSFqBPhfiANr is activated:  1.002
+2026-10-07T01:50:21.865Z STAKES Found:  1  accounts that can be de-activated delinquent validator 6LyZcV2fv224DB83hteJHdqWYDVEYuVpGdNBgoGVSB4H
+2026-10-07T01:50:21.915Z DEACTIVATE Blockhash: CL6oWi3bm63cty6BYHQxaLpS7ryXEkqjLepjc3fCb753
+2026-10-07T01:50:21.973Z DEACTIVATE Sent tx: j6muAguyZ8a96GNuLWhNUZkA74Yd25RemiQ1GGdhc71w8CWZ1FAmiiqZEgswN1cLQvzQ45QBX3W4aWZFyZecHJn https://explorer.solana.com/tx/j6muAguyZ8a96GNuLWhNUZkA74Yd25RemiQ1GGdhc71w8CWZ1FAmiiqZEgswN1cLQvzQ45QBX3W4aWZFyZecHJn
+2026-10-07T01:50:22.074Z DEACTIVATE Waiting for confirmations...
+2026-10-07T01:50:30.731Z DEACTIVATE Confirmed.
+2026-10-07T01:50:30.731Z FIND Deactivated stake accounts with total balance:
+2026-10-07T01:50:30.731Z FIND Total de-activated: 2.012
