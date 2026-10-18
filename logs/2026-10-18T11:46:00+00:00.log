@@ -1,0 +1,63 @@
+2026-10-18T11:46:02.959Z FIND Found epoch range to explore:  1057 1061
+2026-10-18T11:46:02.960Z FIND Found delinquent validators [
+  'RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq',
+  '2XFeDaHPeiMH69FPZUqj6kKokh7VaVrjmQHLC4ocx4MS'
+]
+2026-10-18T11:46:02.961Z FIND Found reference validator CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1
+2026-10-18T11:46:03.186Z STAKES Found:  45  accounts for delinquent validator RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq
+2026-10-18T11:46:03.186Z STAKES Stake account bndGPZikmX8VxbcJuFnz73uxaY8s9mhjk5MgriwthNE is de-activated:  33.511703458
+2026-10-18T11:46:03.186Z STAKES Stake account 29LWRbcvEDKCC9xw84g1bcqZzyoveHZTXFUoDWrnVp12 is de-activated:  1.142476479
+2026-10-18T11:46:03.186Z STAKES Stake account 2CgdBumN5CgBDjT6nvtnhzfpDGqXo2ZKBWvjiEcLsAki is de-activating:  0.002282981
+2026-10-18T11:46:03.186Z STAKES Stake account 3sZqm5QHHimrVtWdExR6chJi3c6w8fo7xY72SpPWhBZi is de-activated:  365.115528024
+2026-10-18T11:46:03.187Z STAKES Stake account 3urDnkWJ8HiitLYAjEHR5dzmFb6ySvPccTHJ2GcLBLAj is de-activating:  2.242474471
+2026-10-18T11:46:03.187Z STAKES Stake account 4GVQVqiEw5LvYvTtFgFSswuQWRxeC8JDvAfuTa57a7N4 is de-activating:  25.914163749
+2026-10-18T11:46:03.187Z STAKES Stake account 4YBFMY1Ayh9YP2j6Qvv5DP9CLDV8BXS58evack2X4Efd is de-activating:  0.002697783
+2026-10-18T11:46:03.187Z STAKES Stake account 5Edsd9rXTFjayotViNKJkjgjrKNH4z4HAyGpRZMSAyia is de-activated:  0.00166624
+2026-10-18T11:46:03.187Z STAKES Stake account 5geexC8VCtEZehydHTdSC8x5hYBSHviRY7xHGS5zT9RQ is de-activating:  0.053698919
+2026-10-18T11:46:03.187Z STAKES Stake account 64VFk6r8Ka6KmR7jnB4WgXdoRp18FFQ1zCUW5i45Bog6 is de-activating:  207.453137555
+2026-10-18T11:46:03.187Z STAKES Stake account 6QECCqvG6VyDHjDM37ouCrkF7ibD45ASzr7rR9VpWY93 is de-activated:  1.039434811
+2026-10-18T11:46:03.187Z STAKES Stake account 6zFa56ZtiMxuW37TqRh5ygR64ADFwAqWBKsxwJ5QbLh1 is de-activated:  17.574384622
+2026-10-18T11:46:03.187Z STAKES Stake account 7QjbWkD23XQEzPCwkksY2795u59TF4Y1ZapELnSV6GvR is de-activated:  611.097944295
+2026-10-18T11:46:03.187Z STAKES Stake account 7s36c8gRii77NaGRw6TrYkafGK5D2tSckQptw6scRen4 is de-activating:  1.545271804
+2026-10-18T11:46:03.187Z STAKES Stake account 8e1eaguas1d2infN2fuU3tBLgr3jbKpJx3meK4opt1Tj is de-activated:  2.060973493
+2026-10-18T11:46:03.188Z STAKES Stake account 8gYwYqkXqc7LCS7DGptzuf24frwKy8x8ooBrCye3ejSn is de-activated:  50.328583914
+2026-10-18T11:46:03.188Z STAKES Stake account A5cnatLy1VcP3yQAyDt1BdeTxwC2Qw5vripV523vcgj3 is de-activating:  0.002413661
+2026-10-18T11:46:03.188Z STAKES Stake account A9dU7cummwDBwe2MPQ89kxMXeWK7Fiy3YuviG38kqj4z is de-activating:  230.026002843
+2026-10-18T11:46:03.188Z STAKES Stake account AseNiKWTTU1z2v1f2U72XC8wjAcsRtigWsj6pDNrQeDT is de-activated:  0.01228611
+2026-10-18T11:46:03.188Z STAKES Stake account B16RHbReUkuUfKDSDfXMnU3BE7Nj5Nssbb4k2SG36Cfd is de-activated:  47.021522882
+2026-10-18T11:46:03.188Z STAKES Stake account BAKxgocHPj3pYfJmqZZkcM8ddenLgHjJa6BarygZUuY6 is de-activating:  56.36205187
+2026-10-18T11:46:03.188Z STAKES Stake account BMgFaQWnFsuT4i2zyj2yw8n6rpbpTiMWR7CiBGwYjd5L is de-activating:  1.001669981
+2026-10-18T11:46:03.188Z STAKES Stake account BTTcEXxma2wdUdmMs4L3pNiFT8ENGTfB52phSGe3XMr7 is de-activating:  1.371816431
+2026-10-18T11:46:03.188Z STAKES Stake account BbbgcnRSmpoy6HuQfthu7UCR1FudCQZrw6StzQBFmpmb is de-activated:  170.86820815
+2026-10-18T11:46:03.188Z STAKES Stake account BdnFoFr53TJtGnvfL9X84AhVczsqFznXGL1YoKLc4vbp is de-activating:  0.041246812
+2026-10-18T11:46:03.188Z STAKES Stake account CFSdx1X9NCwbUHFvq8qnDAuSf1H3QG8w6J4f4SERSkVo is de-activating:  0.002544566
+2026-10-18T11:46:03.188Z STAKES Stake account DbmvQc5TktrecLFpZhEYLSygimr3JqhQLKvbZoYNZHLK is de-activating:  62.237539193
+2026-10-18T11:46:03.188Z STAKES Stake account DezChHnMSKwZQE4S6RWCFoXPcyHC8rfuWfp6Mg3EcT6J is de-activating:  311.076965376
+2026-10-18T11:46:03.188Z STAKES Stake account Dn83kW1mgoJMxYXvvcMJNjq9THrfmmqPayuHNrY182B9 is de-activating:  41.476539946
+2026-10-18T11:46:03.188Z STAKES Stake account DnBQVs4SuY2nUKweAk47eM53fgxp5qw8WjA63cxhYHGf is de-activating:  1.423600651
+2026-10-18T11:46:03.188Z STAKES Stake account DnMEzMJiRtugRGxWWe6HKnnq4qqRyNZrVqXof4KFAQtb is de-activated:  55.373259787
+2026-10-18T11:46:03.188Z STAKES Stake account Do1FitRoydTQN1mbTzEPxgz7Hq2dSdM5DMnwNsvjWgEr is de-activated:  114.726211558
+2026-10-18T11:46:03.188Z STAKES Stake account EPoNpwXqRJbJB6jGqNCN3z8kb6MXGEZJ7okRfgciQiZX is de-activating:  0.003022916
+2026-10-18T11:46:03.189Z STAKES Stake account EYWEnepnfV9uUav1dYpzADnw25nFKD8LWdQ8tPNi5Aam is de-activating:  0.003390651
+2026-10-18T11:46:03.189Z STAKES Stake account EnQWJ2stn6HLJrYnRKTd3Lcjhv3YkqQYLjVBufPgGtFV is de-activating:  23.019527513
+2026-10-18T11:46:03.189Z STAKES Stake account Eu5D2xS4FyRBEjvwrS6BMSgeCP4XegJ6cGRVsLKw3KN9 is de-activating:  89.453526345
+2026-10-18T11:46:03.189Z STAKES Stake account FDooBHy9ScWv7546u3vPXNiQ86tzjWFsJYHJRZkzXAMw is de-activating:  1.088040138
+2026-10-18T11:46:03.189Z STAKES Stake account Fa9hj17c1Ag38SUWzDMmfZY1KHXrizCKc4RH5rnoUWr9 is de-activated:  55.371185078
+2026-10-18T11:46:03.189Z STAKES Stake account FjEzgXsQSz4GWc3wac6LrbGPSzQq4ZYZkaqNm9Sg1psR is de-activating:  0.002800191
+2026-10-18T11:46:03.189Z STAKES Stake account G1WhdLLJvcZ8vhNEqHoB5S6fqKcWiLqUGvb6k6k9XRDq is de-activating:  0.006668246
+2026-10-18T11:46:03.189Z STAKES Stake account Gag1WjdnANkKxA1xU7wTuNXDqXn36A9ywmFjLBCuEYJi is de-activating:  207.453137555
+2026-10-18T11:46:03.189Z STAKES Stake account GmNyaLicMDRF7MHfP6518rNeKJbK3oVdDigY53rHuTJC is de-activating:  11.721044561
+2026-10-18T11:46:03.189Z STAKES Stake account Gnb6a7iTKwbvwVcaqHJ2J3oUKwvcmAdE4JjKnGFFjstM is de-activating:  142.433766974
+2026-10-18T11:46:03.189Z STAKES Stake account HtVyvi6RBPgkA1cAyY2kmFavbzATAcwRRirnqxksuDpt is de-activated:  33.310327523
+2026-10-18T11:46:03.189Z STAKES Stake account J86erk3Fkvhk1QWwf3rMntaAtGLzZNhk5pXXWCaVmWU4 is de-activated:  0.00228288
+2026-10-18T11:46:03.189Z STAKES Found:  0  accounts that can be de-activated delinquent validator RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq
+2026-10-18T11:46:03.189Z FIND No deactivations possible for this validator
+2026-10-18T11:46:03.250Z STAKES Found:  1  accounts for delinquent validator 2XFeDaHPeiMH69FPZUqj6kKokh7VaVrjmQHLC4ocx4MS
+2026-10-18T11:46:03.251Z STAKES Stake account Aw15HFx1vqBECLi3qwoBeSCZuHVmKRoN7NKFX2pXzzA4 is activated:  5
+2026-10-18T11:46:03.251Z STAKES Found:  1  accounts that can be de-activated delinquent validator 2XFeDaHPeiMH69FPZUqj6kKokh7VaVrjmQHLC4ocx4MS
+2026-10-18T11:46:03.290Z DEACTIVATE Blockhash: FqgAB7ZTjRiCJcMSDhGjiABYnCkByQpsAfp1cTpXN1nw
+2026-10-18T11:46:03.350Z DEACTIVATE Sent tx: 49AoSDZHYthvKsNxNd93nRznYUubPy3jzi8McoukDqVhc2fxs6NvpHU4pVRLWVvvXiNzGNJjh74rHxfcnq6ZMKWv https://explorer.solana.com/tx/49AoSDZHYthvKsNxNd93nRznYUubPy3jzi8McoukDqVhc2fxs6NvpHU4pVRLWVvvXiNzGNJjh74rHxfcnq6ZMKWv
+2026-10-18T11:46:03.453Z DEACTIVATE Waiting for confirmations...
+2026-10-18T11:46:03.679Z DEACTIVATE Confirmed.
+2026-10-18T11:46:03.679Z FIND Deactivated stake accounts with total balance:
+2026-10-18T11:46:03.679Z FIND Total de-activated: 5
